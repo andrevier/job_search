@@ -23,10 +23,11 @@ from bs4 import BeautifulSoup
 import time
 
 class PostScrapper:
-  '''Class to manage the scrapping of useful informations in the post.'''
-  def __init__(self, link):
-    self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-    self.post_link = link
+  def __init__(self, url = ''):
+    '''Class to manage the scrapping of useful informations in the post.'''
+    self.driver = webdriver.Firefox()
+    #self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    self.url = url
 
     # Delay time to wait the browser to open.
     self.sleep_time = 4
@@ -59,9 +60,43 @@ class PostScrapper:
     self.criteria = []
     self.job_desc = []
   
+  def set_url(self, url):
+    '''Method to set a new post's url.'''
+    self.url = url
+  
+  @classmethod
+  def html_to_text(cls, soup):
+    '''Receive a tag object from BeautifulSoup and parse the sequence of tags
+    into a text, separating the tags in lines.'''
+    
+    # Rip out all script and style elements and the strong tag.
+    for script in soup(["script", "style", "strong"]):
+        script.extract() 
+    
+    text = soup.get_text('\n')
+
+    # break into lines and remove leading and trailing space on each
+    lines = (line.strip() for line in text.splitlines())
+
+    # break multi-headlines into a line each
+    chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+
+    # drop blank lines
+    text = '\n'.join(chunk for chunk in chunks if chunk)
+
+    return text
+
   def get_content(self):
-    '''Method to open the post's page, and get the content.'''
-    self.driver.get(self.post_link)
+    '''Method to open the post's page, and get the following itens:
+    Job position
+    Company
+    Place
+    Experience level
+    Working time
+    Area
+    Description
+    .'''
+    self.driver.get(self.url)
 
     # Waiting some seconds to show the page in the browser.
     time.sleep(self.sleep_time)
@@ -73,32 +108,31 @@ class PostScrapper:
     # Title
     for data in soup.findAll(self.job_title_selector_tag, { self.job_title_selector_type: self.job_title_selector}):
       self.title = data.string.lstrip() + '\n\n'
+      #self.title = PostScrapper.html_to_text(data)
     
     # Company
     for data in soup.findAll(self.company_selector_tag, {self.company_selector_type, self.company_selector }):
       self.company = data.string.lstrip() + '\n'
+      #self.company = PostScrapper.html_to_text(data)
     
     # Place
     for data in soup.findAll(self.place_selector_tag, {self.place_selector_type, self.place_selector}):
       self.place = data.string.lstrip() + '\n'
+      #self.place = PostScrapper.html_to_text(data)
     
-    # Job's criteria: exp. level, woring time, area, and activity. 
+    # Job's criteria: exp. level, working time, area, and activity. 
     for data in soup.findAll(self.criteria_selector_tag, {self.criteria_selector_type, self.criteria_selector}):
       self.criteria.append(data.string.lstrip() + '\n')
-    
+
     # Job description.
     for elem in soup.findAll(self.post_selector_tag, {self.post_selector_type, self.post_selector}):
-      for p in elem.findAll('p'):
-        if p.string == None:
-          self.job_desc.append('\n')
-        else:
-          self.job_desc.append(p.string)
-          self.job_desc.append('\n')
-    
+      # self.job_desc = elem
+      self.job_desc = PostScrapper.html_to_text(elem)
+
     # Close the browser.
     self.driver.close()
     return (self.title, self.company, self.place, self.criteria,
-            self.post_link, self.job_desc)
+            self.url, self.job_desc)
 
   def write_in_txt(self, filename=''):
     '''Method to write the post content into a .txt file.'''
@@ -114,15 +148,23 @@ class PostScrapper:
             f.write(line)
         
         # Link
-        f.write(self.post_link + '\n\n')
+        f.write(self.url + '\n\n')
 
-        # Post text.
-        for line in self.job_desc:
-            f.write(line)
+        # Job's description. The html text can have many descendants, i.e., other
+        # tags on it, such as list (ul and ol). So, this iterates through all
+        # the children and only write the strings into the file.
+        # for descendant in self.job_desc.descendants:
+        #   if isinstance(descendant, str):
+        #     f.write(descendant.get_text() + '\n')
+        f.write(self.job_desc)
+            
     
 
 if __name__ == '__main__':
-  post = PostScrapper("https://www.linkedin.com/jobs/view/3233151332/")
+  link = "https://www.linkedin.com/jobs/view/3233151332/"
+  #link = "https://www.linkedin.com/jobs/view/3230861910/"
+  #link = "https://www.linkedin.com/jobs/view/3225938561/"
+  post = PostScrapper(link)
   post.get_content()
   post.write_in_txt('ex1.txt')
   
