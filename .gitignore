@@ -4,3 +4,4 @@
 *.log
 # Dependency directories (remove the comment below to include it)
 'raw position text'/ 
+__pycache__/
