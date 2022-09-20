@@ -17,8 +17,8 @@ DD-MM-YY
 from postscrapper import PostScrapper
 
 if __name__ == '__main__':
-  link = "https://www.linkedin.com/jobs/view/3233151332/"
-  #link = "https://www.linkedin.com/jobs/view/3230861910/"
+  #link = "https://www.linkedin.com/jobs/view/3233151332/"
+  link = "https://www.linkedin.com/jobs/view/3230861910/"
   #link = "https://www.linkedin.com/jobs/view/3225938561/"
   post = PostScrapper(link)
   post.get_content()
