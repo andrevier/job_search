@@ -122,7 +122,10 @@ class PostScrapper:
 
       # Position's company.
       f.write(self.company)
-
+      
+      # Place
+      f.write(self.place)
+      
       # Criteria 
       for line in self.criteria:
         f.write(line)
