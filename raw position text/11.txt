@@ -1,0 +1,78 @@
+Silicon Validation Co-op
+Intel Corporation
+Semiconductor Manufacturing
+Vancouver, BC On-site
+Internship
+Entry level
+
+
+A co-op term with Intel of Canada's Intel Foundry Services group is a challenging yet rewarding experience, allowing you to gain knowledge and experience in integrated circuit design and test, from chiplets to SoCs. As a member of our team, you will work alongside a team of experienced engineers/mentors to solve new and interesting problems, making an important contribution to our exciting custom silicon solutions. You'll be oversee by a manager for your individual development.
+
+The Silicon Validation team is an integral team that interacts with engineers from multiple disciplines. In this co-op, the candidate will have opportunities to use state-of-the-art electronic systems to emulate and validate various IP designs. As member of one of the largest electronics companies in the world, you will learn critical technical skills from industry experts while making a meaningful contribution to the design success of Intel Foundry Services' products.
+
+Key Tasks Include
+Test planning and test development using pre-silicon emulation models
+Sighting documentation and corresponding debug
+Post-silicon validation with emphasis on various high-speed interfaces using state-of-the-art equipment
+
+Vancouver Office
+
+Located in South Vancouver's urban town center at Cambie Street and SW Marine Drive, the Intel Marine Gateway site features direct access to the Canada line, bus transit, shops, restaurants, health care facilities and a movie theater. The site is also a quick 15-minute Skytrain away from downtown Vancouver.
+
+Intel Vancouver interns also enjoy many of the benefits of regular Intel employees. This includes full health benefits, paid vacation, Intel discounts and use of our many amenities and services we have on site.
+
+Benefits
+Opportunities to engage with some of the world's greatest engineering mentors within Intel, globally
+Access to engineering training courses that relate to today's real-world engineering/computer science problems
+Full health benefits (including LASIK/PRK)
+Paid vacation (including sick days)
+Access to exclusive Intel discounts (including Intel CPUs)
+Complementary access to a variety of fresh fruits, vegetables, and beverages
+Fully equipped on-site gym
+Recreational activities (pool table, Nintendo Switch, foosball, table tennis, massage chairs, cable, soccer)
+
+Company Profile
+
+Intel Corporation develops technology that has enabled the computer and Internet revolutions which have changed the world. Founded in 1968 to build semiconductor memory products, Intel introduced the world's first microprocessor in 1971.
+
+As an integral part of Intel's new Integrated Device Manufacturing (IDM) 2.0 model strategy, we establish Intel Foundry Services (IFS), a fully vertical, standalone foundry business, reporting directly to Intel's CEO. IFS will be a world-class foundry business and a major US and European-based capacity provider to serve customers globally. We differentiate IFS with a combination of leading-edge packaging and process technology, committed capacity in the US and Europe, plus a world-class IP portfolio including x86 cores, graphics, media, display, AI, interconnect, fabric, and other critical foundational IP, along with Arm and RISC-V ecosystem IPs.
+
+IFS will also provide access to silicon design services to help our customers seamlessly turn silicon into solutions using industry-standard design packages. Intel dedicates IFS to the success of its customers with entire Profit and Loss responsibilities. This model will ensure that our foundry customers' products will receive our utmost focus in terms of service, technology enablement, and capacity commitments. IFS is already engaged with customers today, starting with our existing foundry offerings. We are expanding imminently to include our most advanced technologies optimized for cutting-edge performance, making them ideal for high-performance applications.
+
+We are looking for enthusiastic candidates with strong passion in embedded systems, problem solving abilities, excellent communication, and desire to learn. Technically, a solid foundation of Python and C programming is desired.
+
+The final job assignment will be based on available projects during the work term and on the skills and interests of the student. We encourage students with relevant work experience (other co-op terms, work experience) to apply.
+
+Qualifications
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates
+
+Minimum Qualifications
+Working towards a BS degree in Electrical Engineering or a related field
+Strong debugging and problem-solving skills
+Excellent communication skills
+Project based teamwork
+Languages: C, C++, Python
+
+Preferred Qualifications
+ARM, RISC-V, and/or x86 software development experience
+Synopsys ZeBu, Synopsys HAPS, and/or post-Si validation experience
+Previous experience with PCIe, CXL, Ethernet, DRAM
+
+Inside this Business Group
+
+As an integral part of Intel's new IDM2.0 strategy, we establish Intel Foundry Services (IFS), a fully vertical, standalone foundry business, reporting directly to Intel's CEO. IFS will be a world-class foundry business and a major US and European-based capacity provider to serve customers globally. We differentiate IFS with a combination of leading-edge packaging and process technology, committed capacity in the US and Europe, plus a world-class IP portfolio including x86 cores, graphics, media, display, AI, interconnect, fabric, and other critical foundational IP, along with Arm and RISC-V ecosystem IPs. IFS will also provide access to silicon design services to help our customers seamlessly turn silicon into solutions using industry-standard design packages. Intel dedicates IFS to the success of its customers with entire Profit and Loss responsibilities. This model will ensure that our foundry customers' products will receive our utmost focus in terms of service, technology enablement, and capacity commitments. IFS is already engaged with customers today, starting with our existing foundry offerings. We are expanding imminently to include our most advanced technologies optimized for cutting-edge performance, making them ideal for high-performance applications.
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Benefits
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, and benefit programs. Find more information about our Amazing Benefits here: https://www.intel.com/content/www/us/en/jobs/benefits.htmlIntel is committed to a culture of accessibility. Intel provides accommodations to applicants and employees with disabilities. Find information and request accommodation here.
+
+Working Model
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site.
+
+In certain circumstances the work model may change to accommodate business needs.

@@ -1,0 +1,71 @@
+C++ Software Tool Developer
+
+Valeo
+              
+Prague, Prague, Czechia
+            
+Associate
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Motor Vehicle Parts Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3037915075/
+
+The Lidar department of the Valeo R&D Center in Prague is developing the flagship among our sensors: the Valeo SCALA® lidar is the first and still the only mass-produced automotive laser sensor on the market. It can detect obstacles on the road up to a distance of 200 meters and classify them in all weather conditions. It is used by carmakers for their most advanced models such as the Mercedes S-Class, Audi A8 or Honda Legend. Up to 30% of new premium vehicles are to reach level 3 of autonomous driving by 2030, and to do so, they will have to be equipped with lidar technology. We develop hardware, software, optics, mechanical construction, execute system testing and industrialization of this product.
+We are looking for a Software Engineer - Tool Developer, who will participate in development of software tools for development and validation of advanced driver assistance systems which are later used by our testing and system engineering teams.
+Your challenges?
+Development of software for validation and verification of algorithms and systems, development of SIL, MIL and HIL solutions
+Documentation of implemented solutions according to Valeo Standard
+Maintenance and customization of implemented solutions according to current needs
+Perform Specification reviews, Software Design -Reviews, Peer Code Reviews on a regular basis
+Active participation on the integration and system test (specification, preparation, execution, evaluation, reporting). Presentation of test and results internally and to the customer.
+Test strategy definition, planning and coordination of test activities
+Cooperation on the system definition
+Facilitate and contribute to technical communication with relevant customers
+Comply with company Software Quality processes
+Let's talk about you...
+Degree in Software Eng., Computer Science, Electronic Eng. or equivalent
+Excellent programming skills in C++ in the scope of need to develop SW tools
+Experience with Automotive bus systems (CAN, Flexray)
+Quality oriented engineering attitude, understanding of software development process
+Experience with version control, change control tools
+Experience with requirements engineering and design tools
+Automotive experience
+Good English communication skills, both written and verbal
+We Offer
+6 weeks of vacation per year
+flexible working hours and home office possibility
+variable remuneration - monthly and semester bonuses depending on team and company results
+contribution to the pension insurance after the probation period, 5% from the gross salary
+meal vouchers and free time vouchers on Flexi Pass card
+possibility of Multisport card
+fitness room and external sports ground (football, basketball, volleyball) on site
+mobility support for commuting, accommodation and moving services if you live over 20km away
+company canteen offering a selection of international cuisine
+easy access to work by Prague metro line A, car parking for all employees
+personal development program through technical trainings and language courses
+regular company teambuilding events
+outdoor relax zone with a barbecue space for teambuilding
+discounted prices of car spare parts and accessories
+possibility to see the whole development process in one place from an idea (customer requirement) to a product testing and manufacturing
+Primary Location
+LCC1-CZ-Praha, hlavní město
+Job
+Research and Development
+Organization
+G03E Lidar CZ Prague
+Schedule
+Full-time
+Shift
+Day Job
+Employee Status
+Regular
+Job Type
+Regular
+Job Posting
+20/04/2022, 1:07:22 PM

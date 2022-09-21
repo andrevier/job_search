@@ -1,0 +1,33 @@
+Developer for Embedded Android and Linux (f/m/div.)
+Bosch 
+Technology, Information and Internet
+Greater Nuremberg Metropolitan Area Hybrid
+Full-time
+Associate
+
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: We grow together, we enjoy our work, and we inspire each other. Welcome to Bosch.
+
+
+Job description
+
+You will independently develop embedded software and firmware for our android-based smart IP cameras and software components for our smart video systems to enable innovative solutions for the growing requirements in the modern security business.
+Focusing on our video systems, you will take on challenging development tasks in the areas of embedded devices, IoT and smart video.
+You will work within an international team of experienced developers.
+
+Qualifications
+
+Education: university degree in the field of IT, electrical engineering or a comparable qualification.
+Personality and Working Practice: communicative, flexible and a team player. In addition, an independent, self-reliant as well as structured way of working and a conceptual as well as analytical understanding in an environment characterized by agility.
+Experience and Knowledge: relevant technical knowledge in programming for embedded systems e.g. C and C++. Experience with C#, Objective-C and JavaScript is an advantage. Relevant professional experience in IP technologies, cybersecurity and Android build systems. Knowledge of Android OS at various levels such as kernel, HAL, system services, framework. Experience in agile development methodologies.
+Languages: very good written and spoken English skills. German skills as an advantage.
+
+Additional information
+
+Apply now in just 3 minutes! You want to work remotely or part-time - we offer great opportunities for mobile working as well as different part-time models. Feel free to contact us.
+
+
+Need support during your application?
+
+Melanie Kneile (Human Resources)
+
++49 711 3653 2189

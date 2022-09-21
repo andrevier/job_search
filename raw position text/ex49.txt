@@ -1,0 +1,54 @@
+Data Engineer (all genders)
+
+understand.ai
+              
+Karlsruhe, Baden-Württemberg, Germany
+            
+Associate
+          
+Full-time
+        
+Engineering
+          
+Motor Vehicle Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3243483862/
+
+UnderstandAI was founded in 2017 with the vision in mind to make AI accessible for everyone. To achieve this goal, we’re solving the data problem of AI. The tooling and services provided by UnderstandAI enable our customers to get the right data, at the right quality and right quantity, to make production grade AI products a reality. Join us to become part of this journey!
+Headquartered in Karlsruhe, our team has grown to more than 80 employees since 2017 and is part of the dSPACE Group since 2019. dSPACE is a market innovator and leader in providing solutions and systems for embedded controller software development in Automotive, Aerospace and Manufacturing industries. Founded in Germany in 1988, dSPACE employs over 2200 people worldwide, who are committed to making the embedded controls software development process more efficient through innovative tools and services.
+Due to our success by growing customer numbers and projects, we need to scale our structure and team sizes in order to continue providing an excellent service. Our goal is to not only make our customers happy, but also our employees. We offer a variety of benefits, but more important, we offer interesting & meaningful work environment and responsibilities, on which you can work with a great level of autonomy.
+We can’t wait to see what kind of future you choose to build at UAI - so click on the “apply for this position” button and together we create the gold standard for ground truth data for autonomous transportation!
+The role
+You will be part of an ambitious and cross-functional team that ensures smooth data exchange that is a key factor for the success of our customer projects. As a Data Engineer, you are responsible for the technical setup, support and delivery of results of annotation projects from start to finish. You solve technical challenges with code but also know how to interact with people to address non-technical issues.
+Your tasks
+You help kick-start our annotation projects and provide the results back to our customers
+You are responsible for the end-to-end integration of customer data and improve our ETL (extract-transform-load) tools
+You implement importers and exporters, e.g. to support specific 3D point cloud formats
+You strive to automate all recurring aspects of your work
+You solve 3D mathematical problems in code
+You troubleshoot technical issues in our tool chain
+You close the loop between customers and our product development teams
+You collaborate across teams and departments to improve our product and share your insights from specific projects
+Requirements
+University degree in Computer Science (or related) or a proven track record as a software engineer
+You have a solid experience in Python, knowing JavaScript is a plus
+You work in a self-dependent way with a strong focus on quality
+You're passionate about Clean Code Principles to produce high quality code.
+Linear algebra concepts like vectors, matrices & transformations are familiar to you and you know how to apply them
+Highly proficient in spoken and written English
+What we offer
+A crucial role in a dynamic and fast-growing team
+A work environment that fosters trust, respect, and feedback
+An onboarding buddy to integrate you smoothly into our team
+Productivity and improvement time between the development sprints
+A mentor helping you with your personal goals, technical progress in general and your software engineering skills in particular
+Free snacks & drinks, competitive salary, flexible working hours, work from home
+Our tech stack
+Python, TypeScript, NumPy, Docker, Kubernetes, Google Cloud
+Contact person
+Katrin Maar
+Talent Acquisition Specialist
+katrin.maar@understand.ai
++4917660199870

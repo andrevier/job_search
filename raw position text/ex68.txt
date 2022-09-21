@@ -1,0 +1,36 @@
+Software Developer (C/C++)
+
+Fortinet
+              
+Burnaby, British Columbia, Canada
+            
+Entry level
+          
+Full-time
+        
+Research and Engineering
+          
+IT Services and IT Consulting, Software Development, and Computer and Network Security
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3270163000/
+
+Job Description
+Fortinet team has a great career opportunity for a C/C++ Software Developer within its FortiClient EMS team. Our ideal candidate should be experienced, smart and eager to learn.
+FortiClient’s Security Fabric Integration provides endpoint visibility through telemetry and ensures that all fabric components – FortiGate, FortiAnalyzer, EMS, Managed AP, Managed Switches, and Sandbox – have a unified view of endpoints in order to provide tracking and awareness, compliance
+enforcement, and reporting. Fortinet extends ZTNA control to end-user devices both on- and off-network operations through FortiClient. Easy to use Secure Remote Access and Mobility via SSL and IPsec VPN. FortiClient connects every endpoint to form a cohesive security fabric.
+Job Responsibilities
+Design, Implementation and maintenance of the FortiClient EMS services (server side)
+Skills Required
+Experience with C/C++ programming in Microsoft Windows and Linux development environments
+Experience in multi-threaded, high-performance server-side code designs
+Experience in network programming
+Experience in relational databases, such as MS SQL, MySQL, PostgreSQL
+Excellent problem-solving and troubleshooting skills
+Must be able to work well in a team development environment
+Experience in the following is a plus: C#, GoLang, Python
+Educational Requirements
+Degree, diploma or masters in Computer Science or Software Engineering disciplines or relevant years of related experience in a similar domain
+Minimum 2+ years in software development experience
+#GD

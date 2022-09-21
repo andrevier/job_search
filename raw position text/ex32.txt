@@ -1,0 +1,49 @@
+Design Engineer (High Speed IO)
+
+Microchip Technology Inc.
+              
+Rousset, Provence-Alpes-Côte d'Azur, France
+            
+Entry level
+          
+Full-time
+        
+Engineering
+          
+Appliances, Electrical, and Electronics Manufacturing and Semiconductor Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3123910588/
+
+At Microchip, we work every day to innovate and develop products that solve our customers’ technology challenges. Our team of more than 20,000 people worldwide is dedicated to delivering on the promise of working together to improve lives.
+Learn about our
+guiding values
+that are the building blocks and foundation of our culture and discover how we make a positive impact in the communities in which we operate. We believe our culture fosters trust, collaboration and belonging.
+Our people serve the industrial, computing, automotive, communications, aerospace and defense, and consumer market segments. As part of our global team, you can build technology solutions in our six growth areas – 5G, data centers, autonomous driving, the Internet of Things, electric vehicles, and artificial intelligence and machine learning.
+Around the world, we are committed every day to recruiting, retaining and promoting people in our diverse workforce. Your perspective, passion and ingenuity will contribute to achieving more as we fulfill our
+mission
+as a leading provider of smart, connected and secure embedded control solutions.
+Join our community of exceptional people doing incredible things.
+Job Description
+Microchip’s Corporate I/O Design Team is responsible for the definition and implementation of complex High-speed and General Purpose IO’s used by the global product development teams for SoC and ASIC applications.
+As a member of Microchip’s engineering community, in a PhD program, you will be involved in research and development processes to provide innovative solutions to overcome challenges associated to High-Speed IO design.
+The PhD program is focused on output impedance calibration system that is mandatory for High-Speed Interfaces such as DDR4/DDR5/Flash/PCIe.
+The candidate will participate in all aspects of High-Speed Ultra-Deep-Submicron Planar and FinFET I/O library design in a Linux based infrastructure.
+The IO Circuit Lay-out Engineer Duties Include
+Work with senior staff to architect novel techniques to optimize power, performance and/or area of the IO’s to meet or exceed device specifications
+Design and layout of I/O circuit integrating output impedance calibration
+Design and layout of impedance calibration system
+Design and Layout of test-chips for On-Silicon validation
+Analyze test and characterization reports
+Preferred Skills
+Requirements/Qualifications:
+Ability to run AC & DC simulations on I/O and analog circuits
+Experience in output impedance calibration system is a plus
+Good oral and written communication skills.
+Education
+B.S minimum requirement, Electrical Engineering
+Experience
+Just graduated candidate is accepted
+Travel Time
+0% - 25%

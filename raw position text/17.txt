@@ -1,0 +1,57 @@
+Software Engineer - Motor Control
+Lilium 
+Aviation and Aerospace Component Manufacturing
+Munich, Bavaria, Germany
+Full-time
+Associate
+
+A career at Lilium is for those who want to do something extraordinary. We take pride in pushing the boundaries of engineering, technology and customer experience.
+
+As part of a team, you will tackle challenges and deliver something that has never been done before. By joining Lilium you will have the opportunity to work with a world-class entrepreneurial team of more than  800 people who are as passionate about changing the world as you are.
+
+You will always act with safety and integrity in mind and embody our core behaviors of efficient and positive collaboration, ownership of time, continuous improvements and, ultimately delivering results.
+
+We thrive on diversity and creating an inclusive culture, with more than 50 nationalities currently working hard to bring our vision of a sustainable world to life.
+
+Your Role And Your Team
+
+We are looking for an outstanding Motor Control Engineer to join our innovative team that will shape the future of urban e-mobility. In this position you have the exciting opportunity to contribute greatly on the design of the propulsion system that power the aircraft fleet of tomorrow.
+
+As a member of our Software Intensive Systems team, you will model, design, implement, test and benchmark the motor controls of Lilium electric motor drives.
+
+Your Day To Day
+
+Specify, design, and develop algorithms according to the internal processes in the field of electric motor control for Lilium eVTOL aircraft
+Design and implement motor controller functionality and algorithms for the engine and servo control units
+Test and validate the control algorithms in the laboratory and test rigs
+Participate in generating required life cycle data
+Co-operate with the hardware and power electronic teams
+Contribute to planning activities as part of an Agile Scrum team
+
+Must Have
+
+Your Profile:
+
+B.Sc/M.Sc/M.Eng in Software Engineering, Electrical Engineering, or a related field
+Strong expertise in MATLAB and Simulink, including model development
+Strong understanding of AC electric motors and drive systems analysis, modeling and control
+Academic or industrial experience in defining requirements for motor control software interfacing hardware components including voltage, current and position sensors
+Fluent English language skills
+
+Beneficial To Have
+
+Experience in testing electric motors and hardware debugging (e.g. position sensors, comms interfaces)
+Academic or industrial experience in modeling low-inductance PMSM machines & high switching frequencies
+Experience in designing current and speed control loops for electric motor control
+Experience with laboratory equipment (Oscilloscopes, Signal Generators, Logic Analyzer)
+Experience with Fixed-point development for timing critical embedded systems
+Experience with VHDL, Embedded C & HDL Coder programming
+Experience with PWM schemes such as space vector, discontinuous, and sinusoidal modulation
+Experience with sensorless motor control algorithms and high-speed control techniques
+System-oriented understanding of high voltage DC-link integration
+
+Life At Lilium
+
+The wellbeing of our employees is a high priority. In our HW we have many initiatives such as free healthy food and drinks, free in-house gym and health days. In remote offices we offer online opportunities to stay connected and develop yourself as well including our culture club, free e-library, learning terminal, Employee Assistance Program and many more.
+
+Lilium is an equal opportunity employer and welcomes applications from all qualified individuals regardless of ethnicity, sex, disability, religion/belief, sexual orientation or age.

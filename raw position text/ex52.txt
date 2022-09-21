@@ -1,0 +1,58 @@
+Python Developer
+
+Globant
+              
+Madrid, Community of Madrid, Spain
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3234221850/
+
+We are a digitally native technology services company where innovation, design and engineering meet scale. We use some of the latest technologies in the digital and cognitive field to empower organizations in every aspect.
+Right now, we’re looking for
+Python Developers
+to join our team at
+Globant!
+You will get the chance to:
+Work with professionals who have created some of the most revolutionary solutions in their fields.
+Make an impact. Work in large-scale projects globally.
+Develop your career in our Studios. Each Studio represents deep pockets of expertise on the latest technologies and trends and delivers tailored solutions focused on specific challenges.
+Develop your career within an industry or multiple industries.
+Work in the city you want, and be nourished by cultural exchanges.
+Be empowered to choose your career path: we have more than 600 simultaneous projects, so you can choose where and how to work.
+Be part of an agile pod. Driven by a culture of self-regulated teamwork, each team -or POD- works directly with our customers with a full maturity path that evolves as they increase speed, quality and autonomy.
+What would help you succeed:
+Believe and love what you do.
+Enjoy solving problems.
+Have imagination and you love innovating.
+Being flexible & goal oriented.
+Advanced English skills.
+Very strong analytical skills.
+Excellent knowledge of Computer Science fundamentals (e.g., data structures, algorithms, object-oriented programming, concurrency, etc).
+Experience or good understanding of what it takes to build scalable systems (e.g., understand performance, scalability, distributed systems, etc).
+Experience using Python to develop many types of software.
+Good grasp of web technologies in general; strong understanding of the key concepts involved in implementing web applications and REST APIs too.
+Experience working in Linux environment.
+Experience in the development of applications with Django and Flask. Any other framework is a plus.
+Good knowledge of relational databases and SQL.
+Basic knowledge of NoSQL databases and experience with any of those is good to have.
+Experience working with any cloud services provider is a plus (AWS, GCP, Azure) is a plus.
+Knowledge and understanding of microservices architecture is a nice to have.
+Are you ready?
+About Globant
+We have more than 25,000 professionals and we are present in 16 countries working for companies like LinkedIn, BBVA, EA and Coca Cola, among others.
+We were also featured as a business case study at Harvard, MIT, and Stanford.
+We want you to join us to work for the biggest clients in tech, retail, travel, banking, and media & entertainment, revolutionizing and growing their core businesses while helping them (and you!) stay ahead of the curve.
+Be part of a company with the most cutting-edge practices and technologies plus a unique team.
+Globant is an EOE M/F/D/V. For many positions relocation is available if needed. Globant does not accept unsolicited 3rd party resumes.
+At Globant we believe that an inclusive culture and a diverse environment makes us stronger. We encourage people to have an inclusive spirit as our global footprint expands. We seek to generate a place of inspiration and growth for everyone. A safe space, based on equity as a value, where everyone's careers can be promoted and developed in the same way. There is no innovation without diversity and there is no improvement without plurality.
+Job Segment:
+Developer, Cloud, Computer Science, Engineer, Equity, Technology, Finance, Engineering

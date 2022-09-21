@@ -1,0 +1,43 @@
+Software Tools Developer (m/f/d)
+
+TTTech Auto
+              
+Ingolstadt, Bavaria, Germany
+            
+Associate
+          
+Full-time
+        
+Engineering, Information Technology, and Project Management
+          
+Software Development, Motor Vehicle Manufacturing, and Computer Networking Products
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3235162542/
+
+The cars of the past were guided by human hands – the cars of the future will be driven by human ideas
+In the quest towards full automation, we have set out to tackle the toughest challenge of autonomous driving – safety. Our trusted safety platform is on board more than one million vehicles. If you come work with TTTech Auto in Ingolstadt, your ideas will be, too.
+Software Tools Developer (m/f/d)
+The Software in the Loop (SiL) environment is used to simulate the behavior of the MotionWise platform, together the integrated autonomous driving stack, in the cloud as well as on the PC. As a software tools developer you will be part of a cross-functional agile team. The team owns the end-to-end responsibility for the SiL solutions. Hence you are supposed to contribute to the complete software life cycle. Main activities include design and implementation of features, maintenance of existing code base, documentation, testing, integration and deployment of solutions supported by our CI/CV solution.
+Your Tasks
+Developing the Simulation model and integration into simulation environment (Matlab/Simulink and ADTF)
+Virtualization of our core product - MotionWise
+Design and implementation of new features
+Maintenance of the existing code base
+Collaboration with other stakeholders in cross-national teams
+Your Profile
+Technical education (e.g. Computer Science, Physics, Electrical Engineering or related)
+Professional experience in software development
+Experience in object design and programming (Python, C, C++)
+Knowledge in (beneficial): Matlab/Simulink, Virtualization, AUTOSAR, Agile development process or CI/CD
+Flexibility and self-motivation
+Good command of English, German is an advantage
+Our Offer
+Exciting work environment – be part of future high-tech innovations and cutting-edge technologies
+We are a team – flat hierarchies, open door policy, communication at eye level and hands-on mentality
+Technical Expertise – work among fellow technical experts and minds that will inspire you
+Flexible working arrangements – tailor your work according to your personal needs
+Trust & responsibility – turn your ideas into reality from day one and have a real impact on megatrends shaping the future
+Diversity & equal opportunities ­– our team consists of people from over 60 countries, speaking 100 different languages. Diversity and inclusion are in our DNA
+As of today, TTTech Group employs more than 2,300 people in 14 locations worldwide. TTTech Auto, as part of TTTech Group, consists of more than 1,100 employees in 9 locations worldwide. Join our pioneering team and become part of our fascinating projects. You will find it #mindgrowing

@@ -1,0 +1,98 @@
+Embedded Software Developer (hybrid)
+
+Johnson Controls
+              
+Brossard, Quebec, Canada
+            
+Entry level
+          
+Full-time
+        
+Information Technology and Engineering
+          
+Appliances, Electrical, and Electronics Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3276662767/
+
+Job Details
+What you will do
+As an Embedded Software Developer located in Brossard, QC, you will develop the next generation of embedded applications for the Fire Detection business at Johnson Controls. Our fire detection products are embedded in restaurants and buildings you visit every day! This is an opportunity to exercise your creativity and mastery in embedded software development on our Fire Alarm Systems.
+You don’t want to cross the bridge to go to work? We are located on the South Shore in a booming location with easy access to Quartier DIX30 and public transportation (we’re right next to the upcoming “Réseau Express Métropolitain” hub) and parking. This is a hybrid position, which requires you to be onsite 3 days a week.
+How you will do it
+Use the latest technology to produce high quality software for fire alarm systems
+Collaborate with seasoned and passionate teammates in all software development activity
+Interact with people in different departments and organizations around the world
+Spark idea generation and provide continuous feedback and to address our customers’ needs
+Continuously strive to hone your skill set
+What we look for
+Required
+Mastering of "C" programming language
+Ability to use debugging tools (JTAG) and instruments (scope, …)
+Embedded software development experience
+Eager to learn and challenge self
+0-5 years of embedded software development experience
+Preferred
+Bachelor’s Degree in Electrical or Software Engineering and/or Computer Science
+Experience with an RTOS or Linux
+Knowledge of a formal development methodology
+Knowledge of multithread, multi-process, and real-time application development
+Experience with requirement gathering and specification writing
+Hands on experience with MCUs
+Experience with QT library
+Experience with versioning tools (e.g., Git, Integrity)
+Experience with bug tracking tool (e.g., JIRA, Integrity)
+Experience with scripting languages (e.g., Bash, Make, Python)
+Le futur se construit aujourd'hui et Johnson Controls le rend plus productif, plus sûr et plus durable. Nous utilisons la puissance du nuage (Cloud), l’analyse de données, l’Internet des objets et la conception de produits centrée sur l’utilisateur pour créer des solutions plus intelligentes et plus sûres pour nos édifices et nos villes, afin de rapprocher nos collectivités et améliorer la qualité de vie de tous ses habitants et du monde entier.
+Ce que vous ferez
+En tant que développeur de logiciels embarqués principal en poste à Brossard au Québec vous concevrez la prochaine génération d'applications embarquées pour le secteur de la détection incendie de la Société de contrôle Johnson. Nos produits de détection d'incendie sont intégrés dans les restaurants et les bâtiments que vous visitez tous les jours. C'est donc l'occasion idéale pour vous de mettre en application votre créativité et votre maîtrise du développement de logiciels embarqués dans nos systèmes d'alarme incendie.
+Vous ne voulez pas traverser un pont pour aller travailler? Nous sommes situés sur la Rive-Sud dans une ville en plein essor avec un accès facile au Quartier DIX30, aux transports en commun (nous sommes juste à côté de la future plaque tournante du REM) et à un stationnement. Il s'agit d'un poste hybride, qui exige que vous soyez présent au bureau 3 jours par semaine.
+Comment vous parviendrez à le faire
+Vous utiliserez les plus récentes technologies pour produire des logiciels de haute qualité pour les systèmes d'alarme incendie
+Vous collaborerez avec des équipiers chevronnés et passionnés dans toutes les activités de développement de logiciels
+Vous interagirez avec des personnes de différents services et de plusieurs organisations situées partout dans le monde
+Vous générerez des idées et répondrez aux besoins de nos clients
+Vous vous efforcerez de perfectionner vos compétences en tout temps
+Vous soutiendrez vos équipiers
+Ce que nous recherchons
+Préalables obligatoires
+Expérience pratique en développement de logiciels embarqués
+Maîtrise du langage de programmation « C »
+Capacité à utiliser des instruments et des outils de débogage (JTAG)
+Flexibilité et capacite à apprendre rapidement
+Souhaités
+Baccalauréat en génie électrique, en génie logiciel ou en informatique
+Expérience pratique des microcontrôleurs et de la programmation de registres matériel
+Excellente connaissance du développement d'applications multitâches ou temps réel
+Expérience avec un système d'exploitation en temps réel ou Linux
+Connaissance du développement d’application sous Linux
+Connaissance du développement de pilotes (Linux ou RTOS)
+Expérience des outils de versionnage (Git)
+Expérience avec un outil de suivi de bogues (JIRA, Integrity)
+Expérience des langages de script (Bash, Make, Python)
+Expérience de la bibliothèque QT
+Expérience de la collecte d'exigences et de la rédaction de spécifications
+Connaissance d'une méthodologie de développement formel
+Pourquoi Johnson Controls
+Nous vous offrons la possibilité d’interagir avec d’autres centres de développement situés dans le monde entier
+Grace à notre rayonnement mondial, nous vous offrons de multiples opportunités de développement de carrière, ici et ailleurs dans le monde
+Vous allez utiliser les dernières technologies
+Nous proposons un régime d'assurance collectif ainsi qu’un régime d'épargne-retraite bonifié par l'employeur
+Nous offrons un horaire flexible facilitant la conciliation travail/famille ainsi que de nombreuses activités sociales
+Nous offrons un modèle de travail hybride (au
+bureau, à domicile) avec une flexibilité pour l'environnement de haute technologie moderne d'aujourd'hui
+Notre bureau de Brossard est en pleine croissance
+Canada Diversity Statement
+Information obtained from the questions below will allow Johnson Controls to track the diversity of our applicants, employee training opportunities, promotions and employee retention in order to identify and remove barriers to employment and advancement.  With your consent, you may also be contacted by the employment equity officer to get your opinions about Employment Equity  (EE) Programs.
+You have the right to review, correct, or change information relating to you at any time and you can be assured that the information will not be used for unauthorized purposes.
+Please note that a person may belong to more than one designated group.
+Your response to the self-identification questionnaire below is voluntary.  It is however mandatory to answer the questions, even if you choose not to provide the information.
+The responses that you provide on this form will be confidentially retained for statistical purposes.
+This survey is available in alternative formats.  Please do not hesitate to request.
+Persons with disabilities
+are those that have a long-term or recurring physical, mental, sensory, psychiatric or learning impairment and who consider themselves to be disadvantaged in employment by reason of that impairment, or believe that an employer or potential employer is likely to consider them to be disadvantaged in employment by reason of that impairment.  This also includes persons whose functional limitations owing to their impairment have been accommodated in their current job or workplace.
+An Aboriginal person
+is a North American Indian, Métis, or Inuit and/or a Treaty Indian or a Registered Indian and/or member of an Indian Band/First Nation.
+Members of visible minorities
+are persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour, regardless of birthplace.

@@ -1,0 +1,60 @@
+Python developper
+
+CGI
+              
+Sherbrooke, Quebec, Canada
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3278321452/
+
+Position Description
+Python developper
+Your future duties and responsibilities
+Required Qualifications To Be Successful In This Role
+Insights you can act on
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.
+Spécialiste développeur Python
+Job Description
+oignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+Sommaire:
+Nos clients poursuivent la mise à niveau technologique la plus importante de leur histoire. Nous revoyons les systèmes et les processus afin de les simplifier et de les aligner davantage aux besoins de sa clientèle.
+Tu adores la technologie? Tu aimes travailler sur des projets concrets? Tu es curieux de nature et aimes challenger les idées en place? Si tu es un(e) passionnée à l'énergie contagieuse, que tu fais preuve d'initiative et aimes travailler en équipe, on t'invite à lire ce qui suit!
+Nous vivons présentement une forte augmentation de la demande dans le domaine de l’intelligence d’affaires/entrepôt de données (traditionnel et infonuagique) pour la livraison de services à partir de nos bureaux. Plus particulièrement dans le secteur technologique de l’intégration et de la visualisation de données avec le langage Python, une excellente opportunité se présente pour le candidat de contribuer à la croissance et de prendre des responsabilités comme développeur, analyste ou même chef d’équipe technique.
+Sans y être limité, vous aurez à interagir avec les processus de définition de pipeline de données, et de qualité de données. Vous aurez à travailler de très près avec les gens d’affaire incluant tant les experts métiers, utilisateurs réguliers des systèmes que les dirigeants des lignes d’affaire et de l’entreprise. Vous aurez à définir et créer des processus d’intégration et de pipeline de donnée de façon à rencontrer les exigences de qualité.
+Responsabilités:
+Your future duties and responsibilities
+Travailler en collaboration avec les équipes de développement pour déterminer les exigences de l'application;
+Rédiger de code modulaire à l'aide du langage de programmation Python;
+Rédiger des cas de test efficaces tels que des tests unitaires pour s'assurer qu'ils répondent aux exigences de conception du logiciel;
+Évaluer et hiérarchiser les demandes de fonctionnalités des clients;
+Adapter l'ancien code Python pour s’assurer qu'il respecte les principes modernes.
+Required Qualifications To Be Successful In This Role
+Diplôme collégial ou universitaire en informatique ou domaine connexe;
+Haut niveau de compréhension de Python et de ses cadres et librairies;
+Niveaux d’expertise recherchés : intermédiaire (3 ans et +) et sénior (5 ans et +);
+Expérience dans le test et le débogage d'applications logicielles avec les librairies de test Python tels que Behave, Pytest, PyUnit, etc.;
+Expérience avec des outils de gestion des versions de code comme Git, SVN, etc.;
+Expérience pertinente dans le développement Python en science des données, analyse de données, ou intelligence artificielle, idéalement sur plusieurs mandats ou postes;
+Excellentes compétences de communication écrite et verbale;
+Excellente maîtrise du français.
+ATOUTS:
+Certification professionnelle impliquant la maitrise de Python
+Autres certifications liées au domaine de l’intelligence d’affaire
+Maîtrise de l’anglais.
+Allier savoir et faire
+Alors que la technologie s’inscrit au cœur de la transformation numérique de nos clients, nous savons que les individus sont au cœur du succès en affaires.
+Lorsque vous rejoignez CGI, vous devenez un conseiller de confiance, collaborant avec vos collègues et clients pour proposer des idées exploitables qui produisent des résultats concrets et durables. Nous appelons nos employés "membres" parce qu’ils sont actionnaires et propriétaires de CGI. Ils ont du plaisir à travailler et à grandir ensemble pour bâtir une entreprise dont nous sommes fiers. C’est notre rêve depuis 1976. Il nous a menés là où nous sommes aujourd’hui – l’une des plus importantes entreprises indépendantes de conseil en technologie de l’information (TI) et en management au monde.
+Chez CGI, nous reconnaissons la richesse que la diversité nous apporte. Nous aspirons à créer une culture à laquelle nous appartenons tous et collaborons avec nos clients pour créer des communautés plus inclusives. En tant qu’employeur qui prône l’égalité des chances pour tous, nous voulons donner à tous nos membres les moyens de réussir et de s’épanouir. Si vous avez besoin d’un accompagnement spécifique durant le processus de recrutement et d’intégration, veuillez nous en informer. Nous serons heureux de vous aider.
+Prêt à faire partie d’une entreprise qui est gage d’excellence? Rejoignez CGI – où vos idées et vos actions changent la donne.

@@ -1,0 +1,22 @@
+Développeur C++
+
+Huxley
+              
+Paris, Île-de-France, France
+            
+Associate
+          
+Full-time
+        
+Engineering
+          
+Computer Hardware Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3227082114/
+
+Pour une mission longue, chez notre client leader en monétique: Nous cherchons: for experienced Software development engineers to develop solutions as well as scalable and corrective maintenance. With the objective of customer satisfaction, the focus is on the quality of developments, tests and deliveries as well as software support. The goal is to validate all the specific developments, in a customer target environment in various country configurations in order to anticipate a maximum of anomalies and facilitate the client UAT phase.
+The purpose of the service is to meet the requirements and requirements of architectures, specifications and implementations of the payment solution.
+The developments are mainly in C / C ++. Some additional services and components require knowledge of Python and Java languages. The work provided has to be documented, packaged and tested in an iso-production environment to meet the customer's requirements and expectations. The teams are organized in Squads and Tribes in a context of Agile methodology. Context Client-server environment. The client is embedded type (terminal). Technical environment: Linux Redhat 5/6/7, Java, PostgreSQL, C ++ 11 / C ++ 14 Test tool: Testlink, Quality Center or equivalent. Tools: JIRA, Mantis or equivalent. Automation Framework: Ingenico tool based on Python scripts Methodology: Agile Scrum
+Fluent English or basic

@@ -1,0 +1,67 @@
+Embedded Software Engineer - Robotics (m/f/d)
+arculus – a Jungheinrich company 
+associate
+Munich, Bavaria, Germany 
+23/08/22
+
+Founded in 2016, arculus is a leading provider of complete solutions for planning, implementation, and management of automated logistics and modular production systems. arculus’ portfolio includes the arculee line of autonomous mobile robots, the arculus Fleet software, arculus Warehouse (goods-to-person logistics), and arculus Modular Production (dynamic product flow).
+
+We are a diverse and international team of 90+ creative thinkers, algorithmic brains, makers, movers, and shakers currently transitioning from start-up to grown-up. In our 4 offices in Munich, Stuttgart, Dresden, and Gaimersheim including our 2,000 square-meter sites we connect the digital and physical worlds.
+
+Join us on our journey and forever change how the world makes things.
+
+
+THE TEAM
+
+You will join our Robotics team, responsible for designing, producing, and maintaining our autonomous mobile robots - arculees. You will be a part of a cross-functional, agile, international, and distributed workforce, creating the best possible experience for our users
+
+
+RESPONSIBILITIES
+
+The aim of this job is to develop hardware-related software for mobile robots together with other robotics engineers in an agile environment
+
+
+Your tasks will include:
+
+Design, implement and improve software interfacing hardware components for our robots and test benches
+Integrate software components into a fully functional mobile robot
+Design, build, implement and improve test benches and development tools for internal and external clients
+Write manual and automated tests for the latest iterations of the robot electronics in C/C++
+Test and improve existing code and software architecture for the hardware-related part of our software stack
+Specify and perform integration tests on the latest iterations of our robots
+Collaborate with other teams on performing integration tests and getting things going
+Build prototypes and electronic test setups
+
+QUALIFICATIONS
+
+3+ years software development experience
+Experience with embedded Linux systems
+Experience developing on soft real-time systems
+Experience writing well-structured, testable, efficient and maintainable code
+Excellent C/C++ coding skills
+Familiarity with using electronic schematics supporting problem solving
+Flexible approach to work and the ability to quickly adapt to changes
+Always ready to help and an excellent team player
+
+NICE TO HAVE
+
+Good leadership skills and high self-initiative
+Good communication skills
+Good Linux scripting skills, e.g. bash or python
+Experience working directly with hardware
+Experience with NVIDIA Tegra and embedded platforms
+Experience with Linux internals, bootloaders or RTOS is a plus
+
+
+WE OFFER
+
+Competitive compensation package that matches the top talent we hire
+Healthy body, healthy mind: catered lunches, fruits, drinks, and coffee
+Family-friendly: policies built to support you in all stages of life
+Tech of your choice: provided on your first day plus whatever tools you need to do your job
+Relocation: contribution to help with your organization and costs
+Team events: offsites games, happy hours, and more
+
+DIVERSITY AND INCLUSION
+
+We are an equal opportunity employer and value diversity and inclusion at our company. We welcome all applicants, regardless of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

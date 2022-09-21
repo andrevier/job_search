@@ -1,0 +1,53 @@
+Software Developer Power Electronics (f/m/d)
+
+Siemens
+              
+Neckarsulm
+            
+Berufserfahren
+          
+Vollzeit
+        
+Forschung
+          
+Herstellung von Haushalts-, elektrischen und elektronischen Geräten
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3229523930/
+
+Knowledge for the world of tomorrow.
+Are you currently planning your own future? Then take advantage of the prospects offered by a particularly innovative company! Since 1998, we at KACO new energy have been putting our ideas and our commitment into the development of future-oriented technologies for energy generation. 300 motivated employees are now working towards this goal. It is thanks to them that KACO new energy is now one of the world's leading manufacturers of photovoltaic inverters. Since May 2019, KACO new energy has been a 100% Siemens subsidiary.
+Change the world of tomorrow with us.
+You will be responsible for the new and further development of real-time capable embedded software for the control of power electronic circuits of grid-connected inverters and related products with upstream DC/DC converter stages for photovoltaic and battery systems.
+You will analyze new requirements and create functional specifications
+You will create software specifications, software architecture and documentation and perform software reviews and unit and integration tests
+You will also support us with the associated certifications and develop automated tests and associated scripts in order to be able to perform the tests in the Continuous Integration Server
+The new and further development of KACO HIL (hardware-in-the-loop) systems is also part of your responsibilities
+You will be involved in the selection and optimization of hardware components and their support
+You will act as a contact person for manufacturing and service questions regarding software and will meet the specified deadlines as well as the quality
+Your profile for "making the future possible.
+The basis for your success is a degree in electrical engineering, technical computer science or in a comparable field of study
+You have good knowledge of digital signal processing and control engineering
+and have knowledge in the field of hardware, especially power electronics
+You also have good programming skills in C, especially for hardware-related real-time software
+You convince with knowledge in software engineering (requirements engineering, process models, test procedures, version management)
+You have profound knowledge of common scripting languages such as Python, PowerShell or Bash
+You have strong knowledge of SW version management tools (preferably GIT and SVN)
+Ideally, you already have experience in programming DSPs (e.g. TI C2000) and have prior knowledge of agile methods and DevOps mindset including continuous integration
+You work in a structured and independent manner, which is demonstrated by your results-oriented approach and effective time and project management skills
+Good communication in English and ideally additional German skills complete your profile
+Make your mark in our exciting world at Siemens.
+As an equal-opportunity employer we are happy to consider applications from individuals with disabilities.
+www.siemens.com/careers
+- if you would like to find out more about jobs & careers at Siemens.
+FAQ
+- if you need further information on the application process.
+Organization:
+Smart Infrastructure
+Company:
+KACO new energy GmbH
+Experience Level:
+Experienced Professional
+Full / Part time:
+Full-time

@@ -1,0 +1,89 @@
+Development Engineer - Electric Motor Development (m/f/d)
+Hilti Deutschland
+Construction
+Kaufering, Bavaria, Germany
+Full-time
+Entry level
+
+What's the role?
+
+Would you like to contribute your ideas into differentiating and profitable sustainable electric motor technology while managing the complete project flow from the initial idea to series delivery?
+
+You will take responsibility for concept definition, design, and optimization of the operating behavior of our electric motors in close cooperation with electronics and software development, as well as for shaping our technology roadmap.
+
+With your contribution, you will have a decisive influence on the next generation of our electric motors for Power Tools!
+
+Who is Hilti?
+
+We develop, manufacture and sell cutting-edge products, technology, software and services for the global construction industry. Hilti stands for innovation, quality and direct customer relationships.
+
+From the pre-development of our own motors, electronics and firmware, to series-maturity - our intelligent mechatronic systems come from our own research and development laboratories.
+
+With 30,000 employees in more than 120 countries, we're a great place for you to show us your worth, step up to new challenges and grow in your career.
+
+What does the role involve?
+
+As a development engineer (m/f/d) in the pre-series and series development of electric motors, you will assume responsibility for the electromagnetic and thermal design of electric motors, with the goal of improving existing products and developing new innovative engine and drive concepts.
+
+With your profound knowledge, you will work in a dynamic, highly qualified, interdisciplinary team consisting of electrical and mechanical engineers, drive experts, and simulation engineers on the development, design, and validation of the next generation of our brushless electric motors for hand-held power tools.
+
+You will manage the development process of electric motors from initial specification to series delivery to meet specific product requirements.
+
+You will be responsible for calculating and simulating the operating behavior (analytically and numerically) of electric motor concepts. In addition to the optimization of dimensioning and design suitable for production with regard to series production, the support, production, and testing of test samples are also in your hands - this is done in close coordination with the series projects.
+
+You enjoy the technical leadership of a cross-functional or cross-departmental team and the supervision of student employees during internships and theses.
+
+You will act as an innovation driver in our team and, in addition to technology and platform projects, you will implement your own ideas for future-oriented differentiation features and production-oriented electric motors in Hilti products.
+
+We have 800 of the world’s best engineers developing and testing tomorrow’s technical solutions in our innovation center in Liechtenstein and Kaufering.
+
+What do we offer?
+
+We offer you a unique place to work, in which you are part of a creative and interdisciplinary team. We will give you a lot of responsibility to develop yourself and we´ll support you in shaping your individual career path.
+
+In addition, we offer you innovative and personalized Benefits, such as
+
+Flat hierarchies
+In-house fitness area with training courses
+Flexible working arrangements
+Mobile Working
+Sabbatical
+DB JobTicket
+Company Bike
+Subsidy for monthly and annual public transport subscriptions
+Asset creating benefit
+Company pension scheme (employer-financed)
+Subsidy for childcare
+Summer holiday care for children
+
+Further benefits:
+
+Support in relocating and finding a flat
+Tax advice
+
+Integrity, courage, teamwork and commitment are essential for Hilti – both today and tomorrow. We are proud to say that we not only talk about our values, but also live them every day.
+
+What you need is:
+
+Completed studies (diploma, master's degree, doctorate) in electrical engineering with a focus on electrical machinery and drives or mechanical engineering with a focus on electrical machinery
+Sound knowledge and several years of experience in the areas of design, modeling, and control of electrical machinery as well as common manufacturing technologies and materials science
+Experience with systematic development methods and related tools
+Previous experience with relevant development tools such as Maxwell, Flux, JMag, Matlab, Simulink, FEMM
+Sound knowledge of common control methods (block commutation, FOC, DTC)
+Excellent time management skills and a high level of proactiveness
+Good communication skills in an international environment, tenacity, and goal orientation
+German language skills advantageous
+
+Why should you apply?
+
+With your openness for new technologies and your broad know-how, you ideally complement our engine development team. With your independent way of working, you inspire your environment and develop solutions for our series development.
+
+Take up the next challenge and start your career with HILTI! We are always looking for employees for a long-term cooperation.
+
+During your job interview you will spend some time with us and get to know our company. Thus you will get a feeling for the job and our corporate culture.
+
+Hilti stands for equal opportunities. We are looking forward to receiving applications from severely disabled persons and similarly disabled persons.
+
+Contact: Hilti Entwicklungsgesellschaft mbH I Miriam Fries I Human Resources
+
+Should you encounter technical problems during your application, please contact mycareer-techsupport@hilti.com .

@@ -1,7 +1,6 @@
 # Binaries for programs and plugins
 *.exe
-*.txt
-*.log
+
 # Dependency directories (remove the comment below to include it)
-'raw position text'/ 
+# 'raw position text'/ 
 __pycache__/

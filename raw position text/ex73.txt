@@ -1,0 +1,45 @@
+Python Developer Remote Euro (Crypto-Exchange Largest)
+
+Turn Block Talent
+              
+Paris, Île-de-France, France
+            
+Mid-Senior level
+          
+Full-time
+        
+Information Technology
+          
+IT Services and IT Consulting and Software Development
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3267002203/
+
+Join our client who is Europe’s leading retail platform for buying and selling cryptocurrencies and more! Currently, more than
+two million users
+are benefitting from the platform. They provide the easiest and fastest access to the world of digital assets.
+Your Mission
+As a Python Developer, you will be responsible for building the next generation of cryptocurrency platforms. Previous blockchain development is not required (they will train you in blockchain development).
+Work with the latest modern technologies in a
+fully remote work environment.
+About The Team
+The Blockchain team successfully operates a highly scalable infrastructure of Blockchain nodes, transaction signature processes from mainstream protocols like BTC or ETH down to specialized ones like IOTA, Stellar or others. The Digital Assets area is responsible for offering market conform prices of digital assets to our users and integrating new assets into the ecosystem.
+What You’ll Do
+Previous blockchain development is not required (they will train you in blockchain development)
+Join the full life cycle of cryptography infrastructure, including wallet, framework and libraries development, requirement gathering, design, coding, testing, deployment, documentation and support
+Working hands on to setup and maintain servers and nodes for all types of Blockchains (mainstream as well as DeFi protocols).
+Be part of the future lightning network integration, next to develop Stacking capabilities in house.
+Implementation of strategies to avoid congestion and reduce fees (transaction batching, segwit, bech32)
+Constant evaluation of the ecosystem to identify and resolve any security issues
+What We’re Looking For
+Professional experience working with Python.
+Analytical thinking.
+Motivation to learn new technologies.
+Highly skilled in writing quality code by using test-driven development (TDD) techniques
+You (must be active) in the planning and implementation of computer software
+Deep understanding of REST service anatomy
+Bonus
+Advanced knowledge of blockchain concepts like distributed ledger, consensus and smart contracts
+Knowledge of blockchain daemons such as bitcoind, Geth, OpenEthereum
+If you think you fit the role please join our journey by applying.

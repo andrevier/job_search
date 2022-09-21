@@ -1,0 +1,45 @@
+Python Developer
+
+SIGMA Assessment Systems
+              
+London, Ontario, Canada
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Human Resources Services
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3266197234/
+
+SIGMA Assessment Systems is on the hunt for a developer who loves to build React single page and progressive web apps, and doesn’t shy away from creating API endpoints when needed, in Python. We’re currently developing a next-generation assessment platform for administering high-stakes testing that requires your expertise. You will be working closely with a related business and our agency partner over several phases of the project.
+As The Right Candidate, You Will
+Write JSX components
+Manage state and interface with REST APIs asynchronously
+Display impressive knowledge and curiosity about web development
+Enjoy digging deep into code
+Explain difficult concepts to your teammates
+Knowledge & Interest In
+Github
+Python
+Django
+React
+Postgres
+Linux
+HTML
+CSS
+Compensation
+: Negotiable
+What Makes SIGMA a Great Place To Work
+We hire smart, effective, kind people. We treat them well and pay them fairly. Many of our employees have been with us for over 15 years, and most have advanced degrees
+A respectful, professional environment where your input is valued
+We’re family-friendly with excellent work/life balance
+4 weeks paid vacation to start
+Benefits
+Room for advancement as we continue to grow, limited only by your drive and abilities
+For over 50 years, SIGMA has developed psychological assessments and offered related consulting services, with a focus on business applications of psychology, such as leadership development and employee selection. We work with executives, leaders, and other employees from a variety of industries, such as government, education, healthcare, retail, and hospitality.
+SIGMA offers the opportunity to work in an engaging, challenging, and growing business with other talented individuals. Our size and structure give us a degree of flexibility which is usually not possible in very large organizations. If you’re looking for a rewarding job opportunity, join our talented team of professionals.

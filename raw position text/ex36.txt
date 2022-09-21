@@ -1,0 +1,37 @@
+Entwicklungsassistent:in Inverter *
+
+SMA Solar Technology AG
+              
+Kassel
+            
+Berufserfahren
+          
+Vollzeit
+        
+Wissenschaft und Bildung und Trainee/Praktikant
+          
+Erneuerbare Energien und Halbleiterproduktion
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3208837356/
+
+Das Team Software Development ist verantwortlich für die SMA Firmware der Photovoltaik- und Batterie-Wechselrichter sowie die der intelligenten Produkte für Energiemanagement und Systemsteuerung. Dabei setzt das Team auf modernste Technologien und Werkzeuge, um unsere Software automatisiert zu erstellen und qualitativ abzusichern.
+Dein Beitrag für das große Ganze
+Du bist verantwortlich für die entwicklungsnahe Durchführung von manuellen und teilautomatisierten Tests für Systemlösungen bestehend aus Wechselrichtern, Kommunikationsprodukten und Mobile Apps
+Der Aufbau und die Inbetriebnahme des Testbetts mit realen Geräten, HiL Systemen, Simulatoren und Emulatoren gehört zu Deinen Aufgaben
+Du übernimmst die Dokumentation der Testergebnisse mit unterschiedlichen Testwerkzeugen sowie die Anpassung und Optimierung von Testspezifikationen
+Die Erstellung und Verifikation von Fehlertickets (JIRA-Fehlermanagementtool) ist ein Teil deiner Tätigkeiten
+Du unterstützt bei Entwicklung von Lösungsansätzen
+Deine Fähigkeiten sind gefragt
+Facharbeiter oder Techniker der Fachrichtung Elektrotechnik, Informatik oder vergleichbare Ausbildung
+Erfahrung und Kenntnisse im Umgang mit Standard-Software (MS Office/WebBrowser, JIRA) und mobilen Endgeräten (iOS/Android)
+Systemverständnis für IoT Systeme, Datennetzwerke und Kommunikationsprotokolle
+Erfahrungen in der Softwareentwicklung sind von Vorteil
+Selbstständige, flexible und agile Arbeitsweise
+Gute Englischkenntnisse in Wort und Schrift
+Erfahrung im Bereich Test wünschenswert
+#bethechange
+Wir freuen uns auf Deine Bewerbung!
+Dein Kontakt ist Dennis Gerstenberg | HR Business Partner | Telefon: +49 561 9522-0
+∗ SMA steht für Chancengleichheit und Vielfalt - unabhängig von Geschlecht, Alter, Herkunft, Religion, Behinderung oder sexueller Orientierung.

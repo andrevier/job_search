@@ -1,0 +1,28 @@
+Python Developer
+
+LanceSoft, Inc.
+              
+Montreal, Quebec, Canada
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3179876279/
+
+Job Description
+Python Developer
+Configuration Management The configuration management engineering team are looking for a strong Python developer to enhance and support our DevOps environment. *** global UNIX plant is a large, globally distributed installation of low latency/high frequency trading servers, high-availability application clusters and grids. It is centrally configured and managed by a suite of tightly integrated open source and internally developed tools. This includes a configuration management database (CMDB), domain specific configuration language and compiler, a set of configuration components and many user space tools and libraries. We require an engineer who can develop solutions to ensure that this heterogeneous plant is easy to manage and configure, ensuring a stable environment.The successful candidate will work on the development of our configuration management broker (24,000 lines of Python with over 90% test coverage). This provides APIs and a command based user interface that allows system administrators, developers and application support personnel to build and manage the configuration of Linux hosts.The team sits within the larger IaaS platform engineering group who are responsible for designing and implementing Linux infrastructure for ***'s distributed systems. The group is involved in integration, and maintenance of numerous products, including hardware, Operating Systems (Red Hat Linux and Solaris), system configuration, virtualization technologies and a variety of in-house developed tools.
+Skills Required
+:Strong Python and Perl programming skills, writing secure, testable, robust code.Experience of large (10k+ lines) collaboratively developed modular projects.Knowledge of SQL and database programming using ORMs.Exposure to modern development tools and practices including git, jenkins, agile and continuous integration.Ability to collaborate with others on development, including code reviews, providing specifications, implementing specifications from others, and writing documentation.Good understanding of Linux/UNIX system fundamentals and network protocols.
+Skills Desired
+:Knowledge of SQLAlchemy and Oracle/Postgres databases.
+Linux/UNIX System fundamentals (Red Hat preferred).Exposure to modern configuration management systems such as SaltStack, Ansible
+Knowledge of virtualization technology.
+Experience with clustering/high-availability architectures.Contributor to open source projects would be an ideal fit.

@@ -1,0 +1,85 @@
+Jr. C++ Engineer
+Align Technology  
+Medical Equipment Manufacturing
+Madrid, Community of Madrid, Spain On-site
+Full-time
+
+Transforming smiles, changing lives
+
+ 
+
+At Align Technology, we believe a great smile can transform a person’s life, so we create technology that gives people the confidence to take on whatever’s next. We revolutionized the orthodontic industry with the introduction of the Invisalign system, and we have never lost sight of that spirit of innovation. Our diverse and collaborative teams are constantly pushing the boundaries of what’s possible.
+
+ 
+
+Ready to join us? 
+
+About This Opportunity
+
+As part of OPS SW team you will be focused on improving internal treatment planning production flow involving usage of 3D CAD system. This includes automation of manual operations, fulfilling new feature requests, reducing amount of workarounds and building solid processes together with Operations Engineering teams.
+
+You will be part of cross-functional and multiregional development organization utilizing broad set of technologies and tools. You will have opportunity to interact and share experience with colleagues from multiple countries and cultures.
+
+In this role, you will…
+
+As a C++ Engineer you will have following responsibilities:
+Implementation of features in C++/python with well-define code review and Unit Tests procedures
+Test Automation with our internal python-based automation frameworks
+implementation of post release monitoring using Splunk logs and dashboards as well as events inside SQL History Log DB
+setup of Continuous Integration Tools (branching, build plans, deployment plans)
+Requirements analysis and clarification: impact analysis using Data Lakes and SQL databases, communication with stakeholders, formalization of functional requirements (without supervision)
+In this role, you’ll need …
+2+ years of industry development
+Computer Science or related education
+Understanding of OOP, , data structures, algorithms, bug tracking, code review, unit tests
+Git knowledge
+C++11x expert knowledge
+Python knowledge
+Experience with feature or scope ownership
+Soft skills: desire to learn, intelligence, smooth communication, customer focus, decision making, independency
+English B2 (intermediate)
+The following skills would be a plus:
+Mathematical knowledge
+optimization methods
+linear algebra
+analytical geometry
+Experience in 3D computational software development
+Experience with Machine Learning
+Technological stack  
+C++/MFC/Cross Platform
+Python
+Docker
+Amazon Cloud: ECS/EKS
+Redshift SQL
+Git/BitBucket
+Sound like a good fit?
+
+ 
+
+Great! Click the "Apply" link to let us know you are interested. Not the right fit? Don’t worry, Align is quickly growing so we are creating more opportunities to expand our Align family. Please consider joining our Talent Network to receive notifications about future jobs or sharing this opportunity with others in your network.    
+
+ 
+
+About Align  
+
+  
+
+Align Technology is a publicly traded medical device company that is transforming smiles and changing lives. Our global team of talented employees develop innovative technology, tools and treatment options to help dental professionals worldwide achieve the clinical results they expect. Our digital ecosystem combines the power of technology to create beautiful smiles through the integration of AI and machine learning, digital imaging and visualization, biomechanics and material science to develop the Invisalign system, the most advanced clear aligner system in the world; iTero Intraoral Scanners and OrthoCAD digital services. Did you know? Align is the world’s largest manufacturer of custom 3D-printed materials.   
+
+  
+
+By joining Align, you will be part of a global, fast-growing company in one of the most dynamic industries. Great people, innovative technologies, and meaningful work – these are just some of the things employees say make Align Technology a great place to work.   
+
+  
+
+We respect your privacy. Please review our Applicant Privacy Policies for additional information.  
+
+ 
+
+Global Diversity Statement
+
+At Align, we believe in the power of a smile, and we know that every smile is as unique as our employees. As we grow, we will continue building a workforce of diverse cultural backgrounds and life experiences and fostering a culture of open-mindedness and compassion for all our employees. We live our company values by promoting healthy people and healthy communities. All with the intent of changing millions of lives, one unique smile at a time.
+
+Equal Opportunity Statement
+
+It is our policy to provide equal employment opportunity in all of our employment practices without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, individuals with disabilities, sexual orientation or gender identity or expression or any other legally protected category. Applicants for positions with Align must be legally authorized to work in the country which they are applying for and verification of employment eligibility will be required as a condition of hire.

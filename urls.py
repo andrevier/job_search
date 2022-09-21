@@ -60,3 +60,21 @@ urls_list = [
     "https://www.linkedin.com/jobs/view/3256683990/",
     "https://www.linkedin.com/jobs/view/3245074502/"
 ]
+# Collected 21-09-22
+urls_list_21_09_22 = [
+    "https://www.linkedin.com/jobs/view/3276662767/",
+    "https://www.linkedin.com/jobs/view/3278321452/",
+    "https://www.linkedin.com/jobs/view/3179876279/",
+    "https://www.linkedin.com/jobs/view/3266197234/",
+    "https://www.linkedin.com/jobs/view/3205940932/",
+    "https://www.linkedin.com/jobs/view/3249198258/",
+    "https://www.linkedin.com/jobs/view/3249196438/",
+    "https://www.linkedin.com/jobs/view/3270163000/",
+    "https://www.linkedin.com/jobs/view/3252819029/",
+    "https://www.linkedin.com/jobs/view/3263974633/",
+    "https://www.linkedin.com/jobs/view/3255682702/",
+    "https://www.linkedin.com/jobs/view/3255135879/",
+    "https://www.linkedin.com/jobs/view/3267002203/",
+    "https://www.linkedin.com/jobs/view/2988959962/",
+    "https://www.linkedin.com/jobs/view/3255682702/"
+]

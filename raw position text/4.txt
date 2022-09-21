@@ -1,0 +1,73 @@
+Ingénieur en Développement C/C++ Qt
+Apside
+IT Services and IT Consulting
+Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
+Full-time
+Associate
+
+Envie de rejoindre une entreprise apprenante ? Engagée pour t’accompagner dans ton évolution professionnelle et dans tes projets personnels ?
+
+
+Rejoins Apside Aix en Provence pour travailler sur les projets aéronautiques de demain !
+
+
+Le poste ?
+
+En assistance technique, tu rejoins nos équipes pour contribuer à la réussite de nos projets Aéronautique auxquels tu apporteras tes compétences et ton esprit d’équipe. Tu participes à l'ensemble des activités de spécification, conception et développement logiciel et proposes des solutions adaptées aux besoins des projets.
+
+
+Nous recherchons un Ingénieur Etudes et Développement orienté objet utilisant le langage C/C++ (H/F) au sein de la Division des Moyens d’Essais. Tes principales activités :
+
+Sensibilisation aux contraintes de sûreté logicielle et matérielle,
+Traitement des Faits Techniques (Mantis, RedMine …)
+Gestion des évolutions et/ou corrections, gestion de la configuration (GIT), gestion des livraisons,
+Conception, Développement de logiciel en C/C++ Qt,
+Développement interfacé avec des Bases de données (Oracle),
+Participation à la veille technologique.
+
+Tu as la possibilité de :
+
+
+· Progresser grâce à des missions variées en développant tes connaissances fonctionnelles dans les secteurs locaux de la Défense, de l’aéronautique, du naval, de l’énergie.
+
+· Rejoindre nos communautés internes et devenir notre ambassadeur dans les évènements techs locaux et nationaux,
+
+· T’investir dans la vie de l’agence : Apside Camp, Afterworks, soirées trimestrielles et annuelles, Academy by Apside, RSE...
+
+
+Le projet ?
+
+Apside intervient dans la maintenance d’applications d’essais en vol, dans l’optimisation d’outils de pointe dédiés et participe aux migrations technologiques. Tu seras en lien direct avec les utilisateurs finaux et les équipes de validation et de test pour mener à bien ta mission.
+
+
+Toi ?
+
+Tu as une expertise à apporter sur plusieurs des sujets suivants :
+
+· Langages : C/C++ Qt
+
+· Mantis, Redmine, GIT,
+
+· Oracle, SQL
+
+· Environnement Linux et/ou embarqué
+
+
+Mais aussi :
+
+· Tu disposes de connaissances fonctionnelles dans les domaines de l’aéronautique, de la défense et de l’énergie.
+
+· De nature curieuse et ouverte, tu as le sens du collectif et une forte agilité intellectuelle J
+
+· Tu es toujours à l’affût des actus techs !
+
+
+Et la suite ?
+
+Tu rencontres d’abord l’équipe RH pour parler de tes attentes, ton projet, ton futur !
+Puis les managers pour évoquer : missions, projets et parcours de carrière J
+Et tu discutes avec un de nos Tech Leads, pour évaluer tes compétences et te challenger.
+
+Tu souhaites donner un nouvel élan à ta carrière ? Rejoins la vie Apsidienne !
+
+Pour en savoir plus à www.apside.com

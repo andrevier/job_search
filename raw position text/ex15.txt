@@ -1,0 +1,41 @@
+Concepteur logiciel C# / C++
+
+Matrox Video
+              
+Dorval, Quebec, Canada
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Appliances, Electrical, and Electronics Manufacturing, Computer Hardware Manufacturing, and Software Development
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3227129265/
+
+Résumé du poste
+Le candidat sera appelé à participer à la conception et à l’implémentation de modules logiciels à tous les niveaux architecturaux de différents produits, allant de l’interface usager jusqu’au pilotes et librairies de bas niveau, et ce, au sein d’une équipe polyvalente et dynamique de programmeurs expérimentés.
+Responsabilités
+En tant que membre de notre équipe de développement logiciel, vous aurez l'opportunité de mettre en œuvre de nouvelles fonctionnalités dans les produits existants, ainsi que de participer au développement de nouveaux produits intégrant les dernières technologies. En tant que tel, vous devrez:
+Participer à la conception et au développement de solutions innovantes en vidéo, en vue de relever les défis demandés;
+Concevoir et développer de nouvelles fonctionnalités à différents niveaux, de l’interface usager, aux pilotes et librairies de bas niveau;
+Participer aux mêlées quotidiennes, aux réunions de rétrospectives, à la planification et à la revue de l’itération;
+Participer aux revues de code;
+Participer à la maintenance du code selon les rapports de l’équipe d’assurance qualité et des clients;
+Documenter la conception et l’implantation du code selon les standards établis;
+Créer des tests unitaires et des tests d’intégrations;
+Collaborer avec les autres équipes de développement.
+Qualifications
+L’équipe logiciel est à la recherche d’un candidat qui possède la formation et les connaissances suivantes:
+Baccalauréat en génie informatique, génie électrique avec option informatique ou en science informatique;
+Excellente connaissances en développement de logiciels en langage C# et/ou C++ dans un environnement Windows et/ou Linux;
+Excellentes compétences organisationnelles et aptitude pour le travail d’équipe;
+Maîtrise du français et de l'anglais (oral et écrit);
+La connaissance des systèmes embarqués linux;
+La connaissance des technologies du WEB;
+La connaissance des technologies d’encodage/décodage vidéo et audio;
+La connaissance des protocoles de streaming vidéo (RTSP, RTMP, MPEG-2 TS);
+La connaissance des principes et de la méthodologie de développement agile.

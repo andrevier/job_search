@@ -1,0 +1,50 @@
+Power Electronics Engineer
+
+PRE Power Developers
+              
+Breda, North Brabant, Netherlands
+            
+Associate
+          
+Full-time
+        
+Design, Engineering, and Project Management
+          
+Appliances, Electrical, and Electronics Manufacturing, Renewable Energy Semiconductor Manufacturing, and Motor Vehicle Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3134170635/
+
+Your challenge: conceiving of- and developing the most innovative power electronics for EV chargers. Increasing the conversion efficiency and the power density of our chargers. Reducing the cost. Increasing reliability. Developing new converter modules for a range of products.
+.
+Your function
+PRE develops power modules (AC/DC and DC/DC converters) and charging systems for charging various types of EV’s (passenger vehicles, buses and trucks). You will become a part of the power module design group.
+You are responsible for the development, test and production ramp up of power converter modules used inside the charging systems developed in the charging systems design group.
+You will design circuit diagrams and enter those in Altium designer.
+You will create circuit board layouts.
+You will select suitable components.
+You will do functional testing on prototypes that you can build yourself.
+You will also be responsible for accelerated life testing, and any testing that will be part of the product certification process.
+You will create design and production related documents.
+You will work with- and support the team that integrates your module designs into their charger designs.
+You will design and create test systems used to validate production quality of the power modules you designed.
+You will also provide technical assistance whenever problems on existing products arise and need debugging.
+.
+Who we are
+Power Research Electronics B.V. (PRE) was founded in 1984 and has become a well-respected brand name in power electronics on the world market. Our focus is the development of power electronics for charging electric cars, buses, and trucks. We have successfully deployed thousands of chargers together with our sister company Heliox BV, well known for bus charging stations. Our products have been used all over the world (more than 20 countries).
+We are a fast-growing company. Our culture is one based on a strong team spirit, can-do mentality, and a positive atmosphere.
+.
+Your profile
+We are looking for ambitious professionals with a broad interest, initiative rich, and hands-on mentality. You feel at home in a dynamic and international environment. You are willing to evolve to the Senior Engineer level.
+Your resume should reflect the following:
+Min. Bachelors degree in Electrical Engineering, specialized in one of the following: power electronics, analog electronics, control systems or mechatronics.
+Knowledgeable in the field of power electronics;
+Knowledgeable in the field of safety standards for CE and/or UL.
+Experience with Altium Designer or similar
+Experience with simulation tools
+Fluent in English and Dutch (written and spoken)
+Not a nine to five mentality
+.
+What we offer
+An interesting job with a high level of responsibility and independence. Your workplace will be in Breda. You will be part of a close team of developers. We prefer a 40hr contract, but part time can negotiated. We offer representative labor conditions.

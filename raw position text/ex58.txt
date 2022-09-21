@@ -1,0 +1,49 @@
+Algorithms and software engineer
+
+RatedPower
+              
+Spain
+            
+Associate
+          
+Full-time
+        
+Information Technology
+          
+Renewable Energy Semiconductor Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3120874324/
+
+Who are we looking for?
+We are looking for a full-time Algorithms and Software Engineer proficient in Java language or other object-oriented programming languages, as well as the ability to work in a challenging, fast-paced environment. She or he will become part of an integrated and agile team, working directly with Backend, and Engineering experts and Product Owner.
+The candidate will be responsible for
+Developing optimization algorithms (getting as close as possible to the global optimum solution).
+Tackling soft computing problems (complex problems with incomplete and/or inexact information, finding an adequate solution in a reasonable execution time).
+Collaborating with the Backend and Engineering teams, to frame and tackle new challenges, from both a technical and a business perspective.
+Required skills
+2+ years of experience as a software developer.
+Experience working with Java and object-oriented programming.
+Strong motivation to drive impact by making product improvements.
+Proactiveness, teamwork, and fast learning.
+English language working competence B2 (minimum), or C1 (ideal).
+Desired skills
+Metaheuristics, fuzzy logic, soft computing.
+Graph theory, optimization, statistics.
+Code optimization, parallel programming.
+Version control (Git), JUnit Testing.
+What we offer
+Work on a unique product where you can see the result of your work materialize in every new release.
+Push your knowledge and problem solving skills against complex problems in soft computing, graph theory, optimization and other fields.
+Leverage the newest technologies: we work with the latest Java LTS versions, Cloud environments, automated testing, etc.
+You choose: position fully remote (based in Spain) or hybrid working model (able to combine working from home and from our office in Madrid city center).
+Great teamwork working side by side with an incredibly talented workforce willing to share its knowledge and expertise.
+Career development according to your aspirations and interests. We support our employees with continuous training. You'll get to work together with your manager on defining your career path (focused on technology, team management, and many other possibilities).
+Opportunity to develop yourself and to be part of a fast-growing startup. You’ll have a direct impact on our way of working and decisions made in the business.
+Compensation commensurate with experience.
+Work-life balance and Diversity and Inclusion initiatives. We work with humans. Happy humans.
+Your work will be meaningful and have a direct impact on the planet. Together we shape the future of renewables.
+At RatedPower we are on a mission to accelerate the energy transition by increasing the global solar energy capacity through disrupting and user-friendly cloud-based solutions. We have created pvDesign, a cloud-based software that automates and optimizes the analysis, design, and engineering of photovoltaic plants in all its stages. Only in 2020, our clients have been able to execute an extra 147 projects that they would have been able without pvDesign, totalising 8.82GW installed/year. It’s the equivalent to the electricity consumption of 4.5 million households worldwide. This leads to an annual reduction of 6 million tons of CO2 and an annual decrease of 9 million oil barrels.
+By merging technology and engineering, we aim to strengthen the renewable energy industry, bringing cost reduction and maximizing the efficiency of solar plant deployment. Our ultimate goal? To accelerate the energy transition by contributing to the proliferation of solar energy worldwide.
+Diversity of identity, perspective, and experience makes us stronger. We welcome you to apply to RatedPower regardless of your background, gender, ethnicity, age, orientation or ability.

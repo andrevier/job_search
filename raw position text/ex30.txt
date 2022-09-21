@@ -1,0 +1,47 @@
+Firmware und Elektronikentwickler
+
+Hexagon Manufacturing Intelligence
+              
+Meersburg, Baden-Württemberg, Germany
+            
+Associate
+          
+Full-time
+        
+Accounting/Auditing, Finance, and Administrative
+          
+IT Services and IT Consulting, Appliances, Electrical, and Electronics Manufacturing, and Industrial Machinery Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/2983447355/
+
+Stellenbezeichnung: Firmware und Elektronikentwickler (m/w/d)
+Ort: Meersburg oder Braunschweig
+Business Unit: Hexagon AICON ETALON GmbH
+VN: 2906
+Kurzbeschreibung:
+Als Firmwareentwickler sind sie verantwortlich für die Implementierung, Dokumentation und das Testen von Firmware für die elektronischen Komponenten unserer 3D-Messtechnik. Sie arbeiten in einem agilen Team von Elektronik., Firmware- und Embedded-Software-Entwicklern, um die Funktionalität und Leistung der Hard- und Softwarekomponenten zu warten und zu verbessern.
+Diese Rolle berichtet an den Teamleiter Embedded und Elektronik.
+Aufgaben im Detail:
+Sie entwickeln auf Basis gegebener Anforderungen passende Firmware für die verwendeten Cypress-Mikrocontroller
+Sie testen und debuggen Code, der nicht die gewünschten Ergebnisse liefert und beheben Fehler.
+Sie pflegen, erweitern und optimieren bestehende Firmware
+Sie dokumentieren Ihre Entwicklungsarbeit mit Jira und Quellcodeverwaltungssystemen
+Sie arbeiten in enger Abstimmung mit der Elektronikentwicklung
+Sie reviewen Schaltpläne und Platinenlayouts im Vier-Augen-Prinzip
+Anforderungen:
+Erfolgreich abgeschlossenes Studium der Elektronik, techn. Informatik oder einer verwandten Fachrichtung
+Mindest. 3 Jahre einschlägige Berufserfahrung in der Firmwareentwicklung für Mikrocontroller
+Sehr gute Kenntnisse in der Programmiersprache C
+Fundierte Kenntnisse im Lesen und Bewerten von Schaltplänen und Platinenlayouts
+Spaß im Umgang mit komplexen Aufgaben und Problemstellungen sowie hohe Motivation und Teamfähigkeit
+Sprachlich sicheres Auftreten in Deutsch und/oder Englisch
+Vorteilhaft:
+Kenntnisse in Cypress PSoC-Creator und Cypress PSoC Designer
+Kenntnisse in EAGLE
+Was wir Ihnen bieten:
+Entwicklung zukunftsweisender Technologielösungen in einem wachsenden und zukunftsorientierten Markt
+Offene Kommunikation, flache Hierarchien und die Möglichkeit, sich mit eigenen Ideen einzubringen
+Flexible Arbeitszeiten und Möglichkeiten zum mobilen Arbeiten
+Arbeitsplatz in attraktiver und begehrter Lage im Süden Deutschlands an der Grenze zu Österreich und der Schweiz

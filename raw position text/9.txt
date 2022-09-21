@@ -1,0 +1,55 @@
+C++ Backend Developer (m/f/d) in High-Tech Start-Up
+Visplore
+IT Services and IT Consulting
+Vienna, Austria On-site
+Full-time
+
+Visplore (https://visplore.com) is a software start-up in interactive visual data science. Our mission is to empower industrial domain experts in turning today’s data volumes into answers and data-backed decisions. Numerous national and international customers in manufacturing, energy, and R&D are using Visplore for boosting the transformation towards sustainable industrial processes and renewable energy systems. We are located in central Vienna and backed by a European VC. For extending the scope of our software, we would like you to join our team as a
+
+
+C++ Backend Developer(m/f/d)
+
+
+As part of our cheerful and supportive team, you will work on components for integrating and processing time series from multiple sources, to drive insights in tomorrow’s industry.
+
+
+Your focus
+
+Implementing performant algorithms for processing and transforming large time series data
+Integration with time series data base systems
+Working on advanced algorithms for time series data
+
+Our offer
+
+Inspiring start-up atmosphere with open communication and helpful colleagues
+Work on innovative, game-like software based on award-winning research results
+Improve your skills in C++, data visualization, data science, ...
+Work location in central Vienna (near Westbahnhof)
+Agile development using Gitlab and Visual Studio
+High-performance hardware
+Flexible working hours, part-time home office possible
+Minimum salary 47.600€ gross/year, higher payments possible based on your qualification
+
+Your background
+
+Good experience in writing performant, modern C++ code
+Good experience in Object-Oriented Design
+Diligent and reliable way of working
+Teamwork and creativity
+Good oral and written English communication skills
+Willingness to move to Vienna
+
+Appreciated additional skills
+
+Degree in computer science or similar
+Python
+Experience with asynchronous programming
+Some experience with algorithms for processing time-oriented data
+
+Contact
+
+Dr. Harald Piringer
+
+hp@visplore.com, Tel.: +43 660 1057 150
+
+Visit our career page: https://visplore.com/company/career/

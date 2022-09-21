@@ -1,0 +1,50 @@
+Softwareingenieur:in
+
+Mattson Technology
+              
+Dornstadt, Baden-Württemberg, Germany
+            
+Associate
+          
+Full-time
+        
+Engineering, Other, and Product Management
+          
+Appliances, Electrical, and Electronics Manufacturing and Semiconductor Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3225938561/
+
+Du hast Lust in einem weltweit führenden Unternehmen die Automatisierung der Fertigung unserer Industrieanlagen voranzutreiben? Du kennst dich bestens mit objektorientierter Programmierung aus?
+Wir suchen dich als
+Softwareingenieur (m/w/d) - C++ / Java
+Du
+hast Erfahrung mit objektorientierter Programmierung in
+C++ oder Java
+im Linux-Umfeld
+kennst dich mit dem
+QT
+Framework aus (Nice to have)
+verfügst über gute
+Deutsch- und Englischkenntnisse
+in Wort und Schrift
+nutzt deine Kreativität zur Umsetzung eigener Ideen
+arbeitest analytisch, lösungsorientiert und eigenverantwortlich an deinen Aufgaben
+Dein Aufgabengebiet
+Du erstellst Embedded Software für unsere Industrieanlagen zur Automatisierung in der Fertigung
+Du entwickelst Softwarekomponenten inkl. Tests und Dokumentation
+Du erstellst Releasenotes in englischer Sprache u.a. für den Kundensupport
+Du unterstützt unsere weltweiten Supportabteilungen bei Fragen und Problemlösungen
+Über uns
+Die
+Mattson Thermal Products GmbH
+ist ein Tochterunternehmen der
+Mattson Technology Inc.
+mit Sitz im Silicon Valley. Als
+weltweit führender Equipment-Hersteller für die Halbleiterindustrie
+unterhält Mattson Niederlassungen in den USA, Europa und Asien und versorgt seit mehr als 25 Jahren namhafte Hersteller moderner Unterhaltungs- und Kommunikationselektronik mit Prozesslösungen. Am
+Technologiestandort Dornstadt – bei Ulm
+– entstehen Anlagen zur thermischen Aufheizung von Siliziumwafern und anderen Substraten oder Oberflächen. Für unsere Anlagen verantworten wir den gesamten Produktlebenszyklus, von der Ideenfindung über die Entwicklung und Fertigung bis zum Kundensupport der ausgelieferten Maschinen. Die weltweite Präsenz von Mattson und der globale Halbleitermarkt
+bieten ein internationales Umfeld
+für unsere Mitarbeitenden.

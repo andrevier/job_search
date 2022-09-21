@@ -1,0 +1,44 @@
+Python Developer
+
+Huxley
+              
+Utrecht, Utrecht, Netherlands
+            
+Entry level
+          
+Full-time
+        
+Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3236360323/
+
+BACKEND DEVELOPER PYTHON
+For an international client near Utrecht I'm currently looking for a Back-end Python Developer that has affinity with Data Science. Do you want to work with the most talented people and at the same time work for a company that is engaged in reducing the environmental impact? Then this could be one of the most challenging opportunities.
+The Responsibilities
+As a Back-end Developer in this company, you build something that matters in various product development projects, focusing for example on data processing, data storage, data science or platform billing. Product development projects can be executed both on-site and in their local Dutch office. Being part of the product development team, you work in a high-tech environment with the newest (Google Cloud) technologies, some of which aren't even available on the market yet.
+Together with the other Product Developers, you improve and stabilize the platform in a Python environment. At the same time, you work on the development and implementation of new features and functionalities for the clients. This means you work closely together with their (international) clients, sometimes directly on location, to gain an understanding of the requirements and to design, develop, test, and implement new back-end applications (focusing on the diverse storage capabilities, data processing layers and user interfaces).
+Who are you?
+You are a hardworking, confident and enthusiastic technology geek with a great sense of humour (or at least you think you have humour). With your creativity, you independently and proactively tackle technical back-end challenges.
+Background
+Bachelor or Master degree (HBO/WO) in Computer Science or a related discipline
+Minimum 2 year of experience in back-end Python programming
+Significant cloud architecture expertise, preferably AWS or on the Google Cloud Platform
+Understanding of and experience with relational and time series data stores, PubSub and Cloud Dataflow
+The Business
+My client is a rapidly growing data analytics and machine learning company, operating in a changing world of energy use. In this world, we move away from fossil fuels transitioning to a diverse Energy Mix and a change from centralized to distributed generation. People and communities care about energy efficiency and want to be engaged in reducing their environmental impact.
+The Benefits
+Full-time employment with the possibility to work 32-40 hours a week
+Mark conform salary and holiday pay (8% of the yearly salary)
+Yearly steady pay raise
+Pension scheme
+Extensive development and career opportunities
+Travel allowance
+Informal environment, no politics
+And many more!
+Python, Google Cloud, GCP, PubSub, Utilities, Energy, Data, Data Analytics, Machine Learning, SaaS
+Apply now!
+Do you tick many of the boxes and do you think you are the designated Back-end Python Developer for this company near Utrecht? Then please do not hesitate and get in touch with me Robin Man on +31 06 15 37 76 23 or r.man @ huxley.com

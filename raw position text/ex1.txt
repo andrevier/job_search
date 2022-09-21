@@ -1,0 +1,67 @@
+Junior C++ Software Engineer (Apps) (m/f/d) 
+
+exocad
+              
+Darmstadt, Hesse, Germany
+            
+Associate
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Software Development
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3233151332/
+
+Who we are?
+Align Technology is a global medical device company that pioneered the invisible orthodontics market with the introduction of the Invisalign system in 1999. Today, we develop innovative, technology-rich products such as Invisalign system of clear aligner treatments, the iTero scanner services to help dental professionals achieve the clinical results they expect and deliver effective, innovative dental options to their patients.
+For reinforcement at our headquarters in Darmstadt we are looking for you as a
+Junior C++ Software Engineer (Apps) (m/f/d)
+To maintain our leadership and compete in this aggressive marketplace, we are looking to enhance our team with additional talent. We are currently seeking a Junior Software Engineer (m/f/d)
+with education/experience necessary to develop applications for our 3D intraoral scanner.
+The main tasks include:
+As a technical specialist, you will be working in cross-functional, multinational team on developing new product. Your role will be in implementing and integration part of end-user facing UI.
+Develop C++ code – code for new features as well as refactoring of existing code.
+Work closely with his team leader, his teammates, SQA.
+Ensure that the application components are built to the highest standards across the application lifecycle.
+Responsible for developing code, unit test cases.
+The engineer would manage software defects by working with SQA to recreate, debug and resolve issues.
+Develop, design and document C++ code
+Support existed and implement new functionality
+In this role, Software engineer (m/f/d) should have:
+B.Sc. in Computer Science or related degree
+1+ years of experience with C++ application development
+Knowledge of C++ 11/14 and newer
+STL
+OpenGL/Direct3D as an advantage
+Basic C# knowledge as an advantage
+Basic Python knowledge as an advantage
+Good English speaking and in writing
+German is a plus
+What we offer you:
+Exciting and varied activities in a dynamic and growth-oriented software company
+Flat hierarchies and efficient decision-making processes
+Positive working atmosphere that promotes both individual freedom and responsibility
+Strong team spirit and very good working atmosphere
+Modern offices and workstations, working with the latest technologies
+Flexible working hours
+Several days of home office per week possible
+Training opportunities
+Company events
+Sports opportunities and work-life balance
+Free drinks, fruit and snacks
+Canteen with own cook
+Good transport connections
+JobTicket
+Have we awakened your interest?
+If this position challenges you and fits your qualifications and professional goals, we look forward to receiving your application.
+Please use our online form for your application:
+Online application
+For questions, please contact:
+exocad GmbH
+Human Resources | Christian Agne | Julius-Reiber-Str. 37 | 64293 Darmstadt
+E-Mail: recruiting@exocad.com
+exocad.com

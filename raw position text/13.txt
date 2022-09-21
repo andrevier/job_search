@@ -1,0 +1,40 @@
+C++ Developer
+Cortex IT Recruitment
+Staffing and Recruiting
+Surrey, BC On-site
+Full-time
+Entry level
+
+The Company
+
+A leading supplier of global financial trading software. The company has offices in and development centres located in each major international region. They are listed on the London Stock Exchange and globally renowned for their financial software products. Their applications are sold in all of the world’s major financial centres to top-tier investment banks.
+
+The Role
+
+– Design software solutions to meet business specifications
+
+– Build maintainable software components that operate as part of a large multi-process system
+
+– Test software at the unit and system level
+
+– Provide content for functional and technical documentation
+
+– Review and constructively comment on the software, testing and documentation of peers
+
+– Apply technical expertise to investigate and resolve customer software issues
+
+Experience of software development in the following areas is highly desirable:
+
+– Financial markets
+
+– High performance software
+
+– Concurrent computing
+
+– Linux and Unix operating systems
+
+– C++ or transferable skills from similar languages such as Java or C#
+
+Job Owner: c.rogers (24533)
+
+Tagged as: C, Java

@@ -1,0 +1,31 @@
+C++ Developer
+
+isgSearch
+              
+Toronto, Ontario, Canada
+            
+Entry level
+          
+Full-time
+        
+Information Technology, Other, and Production
+          
+IT Services and IT Consulting, Information Services, and Food and Beverage Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3263974633/
+
+Our client…
+AI and Machine learning company in the Food operations space
+What's in it for you?
+Be part of a strong development team that delivers Enterprise SaaS solutions. Apply your skills to help our customers drive business value from our retail operations solutions.
+Responsibilities:
+Design, develop, maintain, and support software in C++ from conception to production
+Must Have:
+o C++/C and Object-Oriented programming
+o TCP/IP and FTP/SFTP
+o Systems analysis and design contribution
+Nice to Have:
+o OpenSSL
+o Visual Studio

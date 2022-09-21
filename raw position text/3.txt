@@ -1,0 +1,91 @@
+SW Tool Developer C++ in VISION SYSTEMS
+Valeo  
+Motor Vehicle Parts Manufacturing 
+Prague, Prague, Czechia 
+Full-time
+Associate
+
+We are an automotive supplier, a partner to all automakers worldwide. As a technological company, we design innovative products and systems that contribute to reduction of CO2 emissions and to development of automated driving. In our Research and Development center in Prague we employ seven hundred engineers. They are those who stand behind the latest systems of active safety (ADAS) and autonomous driving. What does it mean? Software, hardware engineers, together with mechanical designers, test and system engineers develop sensors and systems for safe and comfortable driving. Automated parking systems, automated emergency braking, blind spot detection and road sign recognition are just a few examples.
+
+Valeo is a leading supplier of components and systems for the world's automakers. In our R&D (Research & Development) Center in Prague we develop Advanced Driver Assistance Systems (ADAS) for intelligent cars.
+
+We are looking for a Software Engineer - Test Tools developer, who will participate on development of software tools for development and validation of advanced driver assistance systems which are later used by our testing and system engineering teams.
+
+YOUR CHALLENGES
+
+Development of SW tools and utilities for development and validation of advanced driver assistance systems (ADAS) ~ programming in C++
+Development of simulation and virtual validation tools based on Urho3D engine
+Working on visualization of test vehicles debug data (UI in Qt)
+Software-In-Loop (SiL) and Hardware-In-Loop (HiL) test environments development
+Working with innovative frameworks such as OpenCL or NVIDIA CUDA
+Collaboration with teams on other Valeo sites (Ireland, Germany, India, China, USA, …)
+
+Let´s Talk About You
+
+A relevant Technical Engineering Degree e.g. Software Engineering, Cybernetics or Robotics, Computer Science, or similar
+Very good knowledge of C++ including OOP principles (or experience with C#/Java and willing to switch to C++) is essential
+Experience with 3D rendering and 3D engines (Unity, Unreal, Urho3D) is major advantage
+Experience with OpenCV / OpenCL / Nvidia CUDA is an advantage
+Experience with Qt Framework is an advantage
+Experience with Linux OS is an advantage
+Experience in automotive communication protocols such as CAN, LIN, FlexRay, Ethernet is an advantage
+Perfect fluency in (technical) English language is a must
+Proactive approach to problems and personal responsibility
+
+We Offer
+
+6 weeks of vacation per year
+flexible working hours and home office possibility
+variable remuneration - monthly and semester bonuses depending on team and company results
+contribution to the pension insurance after the probation period, 5% from the gross salary
+meal vouchers and free time vouchers on Flexi Pass card
+possibility of Multisport card
+fitness room and external sports ground (football, basketball, volleyball) on site
+mobility support for commuting, accommodation and moving services if you live over 20km away
+company canteen offering a selection of international cuisine
+easy access to work by Prague metro line A, car parking for all employees
+personal development program through technical trainings and language courses
+regular company teambuilding events
+outdoor relax zone with a barbecue space for teambuilding
+discounted prices of car spare parts and accessories
+possibility to see the whole development process in one place from an idea (customer requirement) to a product testing and manufacturing
+
+Join us!
+
+Thanks to its strategy focused on innovation, Valeo is at the heart of the three revolutions which are disrupting the automotive sector: electrification, autonomous and connected cars, and digital mobility.
+
+These are revolutions that Valeo has been able to anticipate and which today provide amazing career opportunities, including internationally!
+
+At Valeo, innovation is driven by the diversity, authenticity and energy of its talent. Are you looking for new technological and human adventures ? Join Valeo and its 111,600 employees across 33 countries! More information on Valeo : https://www.valeo.com/
+
+Primary Location
+
+LCC1-CZ-Praha, hlavní město
+
+Job
+
+Research and Development
+
+Organization
+
+E81E Driving Assistance R&D CZECH R
+
+Schedule
+
+Full-time
+
+Shift
+
+Day Job
+
+Employee Status
+
+Regular
+
+Job Type
+
+Regular
+
+Job Posting
+
+04/08/2022, 9:19:42 AM

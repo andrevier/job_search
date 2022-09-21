@@ -1,0 +1,31 @@
+Python Developer
+
+Emonics LLC
+              
+Montreal, Quebec, Canada
+            
+Entry level
+          
+Contract
+        
+Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3249196438/
+
+Job Description
+Python, Unix
+Good to have
+Sybase, Devops, agile
+Roles
+candiate should have good knowledge on python as he/shes writrs test scripts in python
+Good experience with Unix operating system
+experiences with differnet testing methodology like integration,unit etc.
+Candidate will be involved in writing test case using in-house testing framework
+need to develop automation tools to make workflow easiter
+Candidate is expected to understand algorithmic trading behaviour so that he can write better test plans
+good understanding of Agile and devops principals
+good understading of Front office systems and Alogorithm trading strategies

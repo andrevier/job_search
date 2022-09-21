@@ -1,0 +1,59 @@
+Software Developer Engineer / Linux (m/f/d)
+
+TE Connectivity
+              
+Dresden
+            
+Berufserfahren
+          
+Vollzeit
+        
+IT und Ingenieurwesen
+          
+Herstellung von Haushalts-, elektrischen und elektronischen Geräten
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3231991584/
+
+At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world.
+Your Tasks
+Independent and autonomous planning and execution of (software) developments within the product development process of sensors or sensor systems in the mobility sector
+Collaboration in modification processes of series products
+Development of embedded firmware as well as test, calibration and diagnostic software
+Development of a platform that provides image processing
+Collaboration with developers to design algorithms and software interfaces
+Creation of codes based on specifications
+Integration of software components and programs
+Transfer of revised software components into ALM systems and collaboration in the creation of software releases
+Planning, documentation, implementation and execution of module and integration tests as well as execution of simulations
+Planning, documentation, implementation and execution of software validations and error analyses
+Troubleshooting, debugging and updating existing software
+Recommendation and execution of improvements
+Prepare technical documentation for reference and reporting purposes
+Interface between product development and internal departments
+Creation of supplier specifications and support of suppliers
+How Your Backround Should Look Like
+Completed studies in computer science, electrical engineering or comparable degree
+Several years (at least 2 - 3 years) of professional experience in a similar function
+Very good knowledge of embedded software development
+Very good knowledge of programming languages (C, C++, C#)
+Very good knowledge of programming basic system software (RTOS and Linux systems, including HAL and system development)
+Good knowledge of low level hardware access, peripherals, drivers, communication interfaces, protocols and diagnostics
+Knowledge in the area of imaging stack / image processing as well as with codeBeamer ALM is advantageous
+Good knowledge in code quality, code metrics and software qualification.
+Secure knowledge of English, both written and spoken; knowledge of German is an advantage
+Competencies
+Values: Integrity, Accountability, Teamwork, Innovation
+About TE Connectivity
+TE Connectivity is a $12 billion global industrial technology leader creating a safer, sustainable, productive and connected future. Our broad range of connectivity and sensor solutions, proven in the harshest environments, enable advancements in transportation, industrial applications, medical technology, energy, data communications and the home. With approximately 80,000 employees, including more than 7,500 engineers, working alongside customers in approximately 140 countries, TE ensures that EVERY CONNECTION COUNTS. Learn more at
+www.te.com
+and on LinkedIn, Facebook, WeChat and Twitter.
+What TE Connectivity Offers
+We offer competitive rewards & compensation. Our commitment to our employees includes offering benefit programs that are comprehensive, competitive and will meet the needs of our employees.
+Competitive Salary Package
+Performance-Based Bonus Plans
+Health and Wellness Incentives
+Employee Stock Purchase Program
+Community Outreach Programs / Charity Events
+Employee Resource Groups

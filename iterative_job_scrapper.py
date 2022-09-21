@@ -1,14 +1,15 @@
 from postscrapper import PostScrapper
-from urls import urls_list
+import urls
 
 if __name__ == "__main__":
   post = PostScrapper()
-  i = 1
-  for url in urls_list:
-    name = 'ex' + str(i) + '.txt'
-    post.set_url(urls_list[i-1])
+  
+  j = 61
+  for url in urls.urls_list_21_09_22:
+    name = 'ex' + str(j) + '.txt'
+    post.set_url(url)
     post.get_content()
     post.write_in_txt(name)
-    i += 1
+    j += 1
     print(name)
 

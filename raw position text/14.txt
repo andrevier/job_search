@@ -1,0 +1,90 @@
+Embedded Software Developer
+Siemens
+Automation Machinery Manufacturing
+Vaughan, Ontario, Canada
+Full-time
+Associate
+
+Siemens Canada Limited
+
+Contact Information: Saloumeh Sahebnasagh, saloumeh.sahebnasagh@siemens.com
+
+(905) 856-5288
+
+Business address : 1577 North Service Road East, Oakville, Ontario L6H 0H6
+
+Location(s) of work : 300 Applewood Cres., Concord, Ontario L4K 4E5
+
+Terms of employment : Permanent
+
+Language of work: English
+
+Wage: $90,000-$110,000
+
+Benefits - Medical, Dental & Prescription drug benefits, Life Insurance, Disability Coverage
+
+Job title - Embedded Software Developer (Linux OS)
+
+Change the future with us.
+
+We are looking for dedicated and talented people who tackle ever-changing challenges, customer needs, and questions from colleagues with clever concepts and creativity. We embrace change and work with curious minds re-inventing the future of work. Join us and let us focus together on what’s truly important: making lives better with new ideas and the latest technology around the world.
+
+What will you do?
+
+Develops software.
+Reviews relevant requirements, standards and other documentation to clarify and understand software engineering requirements.
+Estimates own work and provides such estimates to Team Leader or Project Manager
+As part of development performs unit testing to ensure delivery quality
+Presents technical findings and developments.
+Adheres to the software development process through the execution of module, subsystem and system test procedures.
+Participates actively in both hardware and software component selection
+Work within the process and procedures defined by the organization: reporting/recording bugs in tool, participating in daily stand-ups, planning and retrospective sessions, updating work items regularly in process tool
+
+What will you need to succeed?
+
+7+ years of experience developing software in Linux environment for embedded applications
+Has an undergraduate or graduate degree in Computer Science or Engineering, Mathematics or related disciplines
+Experience using C/C++, Makefiles, GNU Toolchain and Shell programming in a Linux environment
+Linux kernel modules, drivers and device-tree development
+Strong experience in developing, modifying and integrating open-source projects (OSS)
+Experience with TCP/UDP/IP and socket programming
+Software source control tools such as Git, Subversion, etc.
+
+Additional “nice to have” strengths in the following areas:
+
+Experience with Yocto based Linux distributions.
+Experience with ARM32/64-bit platforms
+Experience with bootloaders
+Experience with Preempt RT Linux
+Experience working on Linux for complex embedded devices such as network firewalls, routers, etc.
+Experience reading and working with schematic/circuit diagrams as well as vendor-provided technical reference manuals and datasheets
+
+About Us.
+
+We share our ideas and champion the people behind them.
+
+For over 110 years, Siemens Canada has stood for engineering excellence, innovation, quality and reliability. Siemens Canada is a technology leader providing comprehensive solutions for Smart Infrastructure and Digital Industries. We make real what matters by setting the benchmark in the way we electrify, automate and digitalize the world around us. Ingenuity drives us and what we create together in yours.
+
+Making a difference together we raised $$385,000 towards charitable contributions, support over 38 non-profit organizations and planted 660 trees in our local communities. Siemens Canada has 2,500 employees from coast-to-coast and 24 office and production facilities across Canada. Join our team of approximately 293,000 talented professionals in more than 190 countries/regions and help us tackle the most exciting challenges to build a successful future together. So, what are you waiting for? Take your next career step with us.
+
+To learn more about Siemens Canada, visit our website at www.siemens.ca
+
+While we appreciate all applications we receive, we advise that only candidates under consideration will be contacted.
+
+Organization: Digital Industries
+
+Company: Siemens Canada Limited - RuggedCom
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time
+
+Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.
+
+By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Code available at www.siemens.ca.
+
+Siemens s’engage à créer un environnement diversifié et est fière d’être un employeur souscrivant au principe de l’égalité d’accès à l’emploi. Tous les candidats qualifiés seront pris en considération pour ce poste.
+
+Sur demande, Siemens Canada prendra des mesures d’accommodement raisonnables pour les personnes handicapées, dans le but de soutenir la participation des candidats dans tous les aspects du processus de recrutement.
+
+En transmettant des renseignements personnels à Siemens Canada limitée ou à ses sociétés affiliées, à ses fournisseurs de services ou à ses agents, vous nous autorisez à recueillir, à utiliser et à divulguer ces renseignements aux fins prévues dans notre Code de protection de la confidentialité, que vous pouvez consulter au www.siemens.ca.

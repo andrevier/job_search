@@ -1,0 +1,49 @@
+Automation & Controls Engineer, Castings (m/f/d) - Gigafactory Berlin-Brandenburg
+
+Tesla
+              
+Grünheide, Brandenburg, Germany
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Renewable Energy Semiconductor Manufacturing, Motor Vehicle Manufacturing, and Utilities
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3232113792/
+
+The Role
+Tesla is looking for a highly motivated Controls Engineer to Design, Specify, Integrate and Automate Manufacturing Equipment and Processes for our cutting edge High Pressure Die Castings. The Automation Controls Engineer is part of a team that designs, programs, and commissions the most advanced automated assembly lines in the world, challenging the frontiers of traditional manufacturing, creating complex automation equipment to produce Tesla vehicles cast components. The Automation Controls Engineer works with a team of talented engineers to develop Tesla’s innovative controls program architecture. She/ He is expected contribute to the team’s mission in a rapid and exponentially growing capacity.
+Responsibilities
+Program ladder logic and structured text on multiple PLC controller platforms (Allen-Bradley, Siemens and Beckhoff)
+Sequence complex, multi-station machinery for material pick-and-place, melting, heating, cooling, forming, injecting, cutting, deburring applications
+Interface process and test equipment with Tesla MES and production quality databases using Python scripting and SQL
+Create aesthetically pleasing and intuitive operator human machine interfaces (Ignition)
+Design industrial electrical panels, field wiring, network and OSHA-compliant machine safety circuits in AutoCAD Electrical
+Program and teach industrial 6-axis robots (Fanuc, Kuka)
+Setup and tune field instruments like flowmeters, temperature transmitters, pressure transmitters, valves, sensors and IO-Link devices.
+Setup and tune servo drives and VFDs for fast and smooth operation (Siemens)
+Requirements
+Bachelor’s degree in Electrical, Mechanical or Mechatronics Engineering, Computer Science or equivalent industry experience
+Superb computer skills and demonstrated proficiency in a common programming language
+Demonstrated propensity to build, assemble, and fix things (including programmed solutions)
+Familiar with and able to use common hand tools and diagnostic tools such as multimeters
+Exposure to microcontrollers programming, binary and digital logic, analog circuits
+Experience in manufacturing environment, preferably Casting or Foundry
+Experience in hydraulic and pneumatic circuits design and troubleshooting.
+Experience in fieldbus systems like Profinet, TCP/IP, Modbus.
+Advanced knowledge of requirements by ISO and local safety Standards.
+Kuka, Fanuc or/and ABB Robotic hardware skills desired, any programming experiences are plus.
+Proficiency with CAD
+Exemplary verbal and written communication skills
+Able to work under intense time pressure in the presence of others
+Willing to work days, afternoons, nights and weekends as determined by project needs
+Commitment to Tesla’s mission to accelerate the world's transition to sustainable energy
+Fluent in the English or German language
+Applications for this role need to be submitted in English
+What We Offer
+You will be working in our state-of-the-art Gigafactory where you’ll solve the world's most interesting problems with the best and brightest people who share a passion to change the world. Tesla’s compensation package includes competitive salary and Tesla shares or bonuses. Typical benefits that are offered are a pension program, 30 vacation days, employee insurances, relocation and commuting support.

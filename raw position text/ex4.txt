@@ -1,0 +1,71 @@
+Regular C++ Software developer
+
+Luxoft
+              
+Germany
+            
+Associate
+          
+Full-time
+        
+Engineering and Information Technology
+          
+IT Services and IT Consulting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3223808100/
+
+Project Description
+Luxoft is one of the major software services companies world-wide. We deliver professional software services in multiple business verticals such as finance, automotive, and digital transformation. Supporting large vehicle manufacturers in the area of development, production and aftersales is Luxoft's ambition.
+The software inside a vehicle was traditionally expected to be a very controlled and self-contained environment. Equipping cars with perception and machine intelligence changes a lot in the overall picture of the vehicle manufacturer. LUXOFT's goal is to empower our customers, with deep domain knowledge and smart solutions, to develop cars of the future. Great mechanical engineering is not the only criteria anymore for delivering the best cars in the world. Using state of the art software technologies are key to provide the requested user experience.
+For the development of state of the art middleware software components for the future autonomous vehicle generation of a premium German car manufacturer, we are searching for experienced C++ developers to join our international team.
+In the context of the development of the next car architecture this automotive SW development project will gain a central role in the client's E/E Architecture.
+The subject of this specific project is the development of a software platform for the next generation of the client's autonomous driving system. This includes software engineering and software development activities for platform functionalities and systems functions of the SW Platform.
+System Functions in this terms are all open and proprietary functions which are
+•necessary for E/E integration into a vehicle: e.g. programming, diagnostics, coding, vehicle clock/time sync management, service discovery, communication via standard links like ethernet etc.
+•necessary as a supplemental function: e.g. logging of data to external logger boxes (tracing), debugging capabilities (e.g. via JTAG)
+•necessary for internal operation of the system, e.g. process management, CPU/RAM/Flash quota management, scheduling
+•necessary for the safe operation (e.g. ASIL requirements, watchdogs, diagnostic monitors)
+•necessary for the secure operation (e.g. HSM configuration, secure boot concepts for all relevant SoCs etc.)
+The software platform is based on an QNX operating system, which hosts a commercial Adaptive AUTOSAR stack including OEM specific functionalities for
+•programming
+•diagnostics
+•coding
+•vehicle clock/time sync management
+•service discovery
+•logging
+•process management, CPU/RAM/Flash quota management, scheduling
+•safety and security functionalities like certificate management, HSM configuration, secure boot, etc.
+The software stack developed within this project shall be deployable to different underlying hardware platforms. The initial launch of this software stack is currently targeted for July 2025.
+Responsibilities
+- Contribution to the software architecture and clarify requirements in cooperation with the client and the team
+- Detailed design of software components
+- Implementation of SW functions, scripts
+- Implementation of Unit- and Module Tests, clarification of error reports, debugging
+- Development and integration of new middleware features in C++ for the next generation of an autonomous driving ECU
+- Code analysis, refactoring and optimizing legacy code
+- Utilize common design patterns as well as the advantages of object oriented programming
+- Develop robust and effective code and ensure high quality of the embedded code by performing unit tests, simulation on real data (software in the loop) as well as simulation of the software on the target hardware (hardware in the loop)
+- Testing on embedded hardware (ECU) and analyzing logs
+- Direct communication with the client regarding technical aspects of the solution provided
+Skills
+Must have
+- Skills with C, C++ (C++14 and higher), Python
+- Strong focus on producing well-tested, clean and maintainable code
+- Advanced level in analysis and debugging methods and tools
+- CI / tooling skills: Git, Python, bash scripting, Docker and build automation
+- Fluent in English
+- Collaborative working style
+- Experience in working in cross functional area with real end-to-end product
+- Independent and proactive
+Nice to have
+- Experience with Scrum and agile SW development
+- Automotive experience
+- Advanced beginner to competent level in development according to Adaptive AUTOSAR (>20/03) and respective
+tools and methods
+- Knowledge about adaptive AUTOSAR / Linux / QNX (in minimum one of the categories)
+- Knowledge about Functional Safety (ISO26262) and Automotive Security
+- German language is very beneficial
+Languages
+English: B2 Upper Intermediate

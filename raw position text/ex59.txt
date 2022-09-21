@@ -1,0 +1,39 @@
+Internship in Semiconductor Packaging (f/m/d)
+
+Hitachi Energy
+              
+Dättwil, Aargau, Schweiz
+            
+Ausbildung/Praktikum
+          
+Vollzeit
+        
+IT
+          
+IT-Services und IT-Consulting und Herstellung von Haushalts-, elektrischen und elektronischen Geräten
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3256683990/
+
+At Hitachi Energy our purpose is advancing a sustainable energy future for all. We bring power to our homes, schools, hospitals and factories. Join us and work with fantastic people, while learning and developing yourself on projects that have a real impact to our communities and society. Bring your passion, bring your energy, and be part of a global team that appreciates a simple truth: Diversity + Collaboration = Great Innovation
+The energy landscape is rapidly changing, and it requires power distribution systems of increasing complexity to be resilient and highly reliable. Emerging technologies required to withstand these systems involve increasing converter-interfaced and time-varying renewable energy sources to electrify new sectors, such as transport and industries that challenge transmission and distribution system operators. The Semiconductor Packaging and Applied Materials team at our Central Europe Hitachi Energy Research Center in Baden-Dättwil (CH) is looking for an intern student with background in electrical engineering or mechanical engineering to help develop novel power electronics solutions. As an intern you will interact with a dynamic and multidisciplinary team that will supervise and guide the project. If you have a strong technical background, motivation to develop innovative solutions, and you are goal-oriented, this is your opportunity to contribute in building a stronger and more sustainable energy future. The duration of the Internship is 6 months. Our flexible work practices help you optimize personal and business performance while creating an environment where all employees can develop their skills and grow.
+Your responsibilities
+Support on building test equipment for characterizing performance of leading near-chip cooling technologies for power semiconductor modules
+Create 3D CAD design of complex power electronics systems based on input from scientists and engineers
+Benchmarking of module concepts by finite-elements simulations
+Support technology development and research activities for novel power semiconductor modules
+Your background
+Currently pursuing a M.Sc. degree in electrical engineering, mechanical engineering, or a related discipline (official enrollment essential)
+Experience with CAD tools (preferably Creo Parametric)
+Programming skills (LabVIEW, Python) and know-how in data analysis tools and statistics advantageous
+Hands-on experience in building test setups, creating LabVIEW codes for data acquisition and processing, and automation highly advantageous
+Familiarity with thermal and electrical characterization of power semiconductors advantageous
+Fluency in written and spoken English (any other language skills are a benefit) and good communication and technical writing skills
+Motivated and eager to learn more and become part of a multidisciplinary research team focused on innovation
+More about us
+Hitachi Energy is a global technology leader that is advancing a sustainable energy future for all. We serve customers in the utility, industry and infrastructure sectors with innovative solutions and services across the value chain. Together with customers and partners, we pioneer technologies and enable the digital transformation required to accelerate the energy transition towards a carbon-neutral future. We are advancing the world’s energy system to become more sustainable, flexible and secure whilst balancing social, environmental and economic value. Hitachi Energy has a proven track record and unparalleled installed base in more than 140 countries. Headquartered in Switzerland, we employ around 38,000 people in 90 countries and generate business volumes of approximately $10 billion USD. www.hitachienergy.com Interested in joining our team? If so, we look forward to receiving your full application (motivation letter, CV, references) only via our online careers tool. Hitachi Energy Switzerland Ltd. Sonia Canelada Granizo Talent Acquisition
+Publication date
+2022-09-06
+Reference Number
+CH53533491_E1

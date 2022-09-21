@@ -1,0 +1,40 @@
+Jr. Software Developer (Co-op)
+
+Searidge Technologies
+              
+Ottawa, Ontario, Canada
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Airlines and Aviation
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3252819029/
+
+About Us
+We are currently recruiting for a Jr. Software Developer who is ready to work in a fast-paced, dynamic office environment. It is a high-energy position that requires a winning can-do attitude. Must have some experience with and be able to develop, test, and optimize neural networks and other machine learning algorithms. Must have machine learning skills and expertise, good organization habits, be a problem solver, must work well with others, have good communication skills, be a quick learner, and multitask with attention to detail. This will be a permanent, full-time position for an entry-level data scientist. The candidate will be responsible for the research and development of innovative machine learning and artificial intelligence algorithms and products. The candidate will be working for a software company that produces software designed for the air traffic control and air traffic management industries. The main focus of Searidge's technology is to bring innovative products to the market that help improve the air traffic system's safety and efficiency. Since this is a junior position, candidates are expected to be generally familiar with the skills necessary but motivated to learn more as required tasks progress. This position will report directly to the Software Development Manager.
+Duties and Responsibilities
+Data gathering, cleaning, pre-processing, preparation, visualization, and evaluation.
+Machine learning algorithm research, design, development, and optimization.
+Develop secondary software utilities, web applications, test applications, unit tests and prototype applications.
+Maintain, troubleshoot, diagnose and repair existing system software.
+Produce documentation, manuals, user guides and other technical documentation.
+Additional tasks as required, under the guidance of a mentor.
+Qualification
+Some knowledge of one or more of the following technologies: Windows, Linux, Microservices, Visual Studio Code, Python 3, C++08/11/13 STL, Caffe, TensorFlow, Keras, NumPy, CUDA, OpenCV, Cassandra, Kafka, Docker, Node.JS, Javascript, CSS, (X) HTML, SVN, and Git.
+Prefer familiarity with researching, developing, and testing of various machine learning algorithms, such as supervised learning, unsupervised learning, Neural Networks, SVMs, etc.
+Prefer familiarity with data gathering, cleaning, preprocessing, preparation, visualization, and evaluation methods and technologies.
+Prefer familiarity with software development methodologies.
+Prefer familiarity with source control, development environments, and debugging.
+General understanding of IT infrastructure (DB, networking, servers, cloud, monitoring, etc.)
+Self-motivated, detailed-oriented and organized.
+The candidate must be a team player and willing to teach and learn.
+An individual who is able to ensure quality and error checking is a priority
+Why apply?
+Searidge develops innovative technology to improve safety and efficiency in the aviation market. With technology at over 35 sites in 20 countries, we are a global leader and preferred partner for Remote Tower and Digital Airport solutions. Through operational enhancements, collaboration and automation, our team helps our customers proactively transform the way they offer and deliver services to meet changing demands.
+We are an equal opportunity employer offering competitive compensation, and a respectful and positive work environment where creative solutions, empowerment, and collaboration to achieve the end goal is part of the corporate DNA.

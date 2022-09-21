@@ -1,0 +1,90 @@
+Ingénieur Validation HIL
+
+Bertrandt Group
+              
+Valbonne, Provence-Alpes-Côte d'Azur, France
+            
+Entry level
+          
+Full-time
+        
+Quality Assurance
+          
+Motor Vehicle Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3255100373/
+
+Depuis plus de 40 ans, le groupe Bertrandt fournit des solutions de développement pour les industries automobile et aéronautique à l'international. Mais aussi pour les secteurs de la construction de machines, de l'énergie, des technologies médicales et de l'électrotechnique en Europe, en Chine et aux États-Unis. L'ensemble de nos collaborateurs représente une expertise approfondit dans leurs domaines, avec des solutions de projet tournées vers l'avenir, tout en intégrant la satisfaction client.
+Ingénieur Validation HIL
+Lieu: Valbonne
+Ingénieur Validation HIL
+Lieu de travail:
+Valbonne
+Vos missions et votre environnement:
+Dans le cadre du développement de nos activités logicielles, nous recherchons un collaborateur ayant des
+compétences solides en validation de logiciel applicatif ADAS sur banc HIL
+afin de renforcer nos équipes.
+Au sein de nos équipes de développement et validation software et rattaché(e) à un responsable technique, vous aurez pour mission de :
+Analyser les remontées de bugs vus en roulage
+Effectuer un triage des bugs en fonction des couches logicielles affectées : Hardware, Basic Sotfware ou Applicatif
+Assigner les corrections aux équipes responsables des composants impactés
+Implémenter des scénarios de test sur banc HIL afin de reproduire des bugs vus en roulage
+Faire des propositions de correction
+Assurer le reporting des analyses et des propositions de corrections dans un outil de suivi
+Vos compétences et connaissances:
+De formation
+ingénieur ou universitaire de niveau Bac +5 en électronique,
+vous avez une expérience significative sur un poste similaire dans le secteur automobile de préférence et vous justifiez d’une
+expérience d’au moins 3 ans
+.
+Compétences requises :
+Expérience en validation HIL dans le milieu automobile
+Connaissance du fonctionnel applicatif ADAS
+Analyse d’exigences système ou software
+Connaissance des outils : Matlab, Simulik, Stateflow / DDT2000 / Vector Canoe / Lautherbach/ GitLab / Jira
+Connaissances en Python
+La maîtrise de l'anglais est indispensable.
+Poste demandant de la rigueur, de l’organisation, de savoir prendre du recul afin de proposer des solutions pertinentes.
+Vous souhaitez acquérir une expérience professionnelle dans un environnement international ?
+N'hésitez pas à postuler !
+Pourquoi nous rejoindre ?
+Le Groupe Bertrandt est un partenaire technologique de premier niveau dans
+les secteurs de l’automobile, de l’aérospatiale et de la mécanique
+. Avec nos
+50 ans d'expérience
+, notre
+présence à l'international
+et nos
+collaborateurs experts
+dans leur domaine, Bertrandt contribue à
+façonner l'avenir 4.0
+en s'appuyant sur les tendances de numérisation, des systèmes autonomes, de connectivité et de mobilité électrique.
+Bertrandt c'est également :
+L'assurance d'un plan de carrière varié, passionnant, adapté aux souhaits des collaborateurs,
+Concilier vie personnelle et vie professionnelle grâce aux horaires flexibles et au télétravail,
+Percevoir un salaire ajusté à son profil,
+Opter pour un employeur responsable et partenaire de la santé de ses collaborateurs, avec notamment des assurances vieillesse, invalidité et accidents de travail,
+Monter en compétences grâce à la Bertrandt Academy.
+Choisir Bertrandt, c'est prendre en main son avenir !
+Le processus de recrutement :
+Entretien de motivation avec Chloé ou Alice, en charge du recrutement
+Test technique à distance et prise de références
+Entretien technique avec votre futur Manager Opérationnel
+Entretien final avec Jonathan, le Responsable d’Activité
+Vous intégrerez Bertrandt au département Electronique et Électricité de la branche Automobile.
+Dans le cadre de sa politique diversité, Bertrandt étudie, à compétences égales, toutes les candidatures dont celles de personnes en situation de handicap.
+Ce que nous proposons:
+Horaires de travail flexibles
+Travail en autonomie
+Cantine
+Indemnité transport
+Offres de formation
+Places de parking
+Accès aux transports publics
+Télétravail
+Contact:
+Alice Botingar Tel.: 0761204053
+Contact:
+Alice Botingar Tel.: 0761204053

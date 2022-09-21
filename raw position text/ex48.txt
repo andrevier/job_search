@@ -1,0 +1,41 @@
+Junior Electronics Design Engineer [m/f/d] - Power Electronics
+
+OSB AG
+              
+Greater Munich Metropolitan Area
+            
+Associate
+          
+Full-time
+        
+Engineering
+          
+Aviation and Aerospace Component Manufacturing
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3189590520/
+
+Location:
+Weßling (Oberpfaffenhofen)
+Your tasks:
+Designing point of load and isolated DC/DC Converters for satellite units
+Designing analog and digital motor Controllers and drivers
+Design of power distribution, overcurrent and overvoltage protection circuits
+Designing power supplies for multiple systems on chip and FPGAs from leading manufacturers
+Verifying the performance of your circuits by Simulation for worst case, derating and Signal integrity analysis
+Specifying PCB layouts and guidance of the PCB layout designer for multi-layer and rigid-flex High-Rel PCBs with up to 14 layers with Mentor PADS
+Testing your circuits under extreme conditions during qualification / acceptance tests
+Your qualification:
+Master Degree in electronics engineering or similar discipline
+Knowledge of the design, Simulation and test of DC/DC Converters (Buck, Boost, Flyback and other topologies)
+Knowledge of the design of motor Controllers and understanding of electrical motors
+At least one programming language suitable to control automated test set-ups (Phyton or C/C++)
+Experience with ECAD design and Simulation tools (Mentor PADS, Spiee, HyperLynx, ADS)
+Good written and oral English language skills and the ability to work in an international team
+We offer you:
+Flexible Working Hours
+Permanent Employment
+Attractive Salary
+Employee Events
+Qualitrain

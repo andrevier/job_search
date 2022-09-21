@@ -1,0 +1,118 @@
+C++ Developer (Hybrid model)
+ERNI 
+IT Services and IT Consulting
+Madrid, Community of Madrid, Spain Hybrid 3 weeks ago  43 applicants
+Full-time
+Associate
+
+Are you willing to join a project that will have a positive impact on people’s life?
+
+
+If so, this is your lucky opportunity. You will have a huge challenge joining a project that will have a positive impact on people’s life.
+
+
+Your propose on this project will be to develop new features for this device and maintain the current market solution. What they do is to work in a software that helps to infusion medication for cancer patients.
+
+
+
+How ERNI cares about YOU
+
+
+📚 Paid and rewarded certifications: you will be able to learn new technologies to develop as a professional in the areas that interest you most (such as: Agile, DevOps, Cloud, QA, etc.) and be rewarded from 200€ to 1.400€ per certification, in addition to the paid exam.Paid and rewarded certifications: you will be able to learn new technologies to develop as a professional in the areas that interest you most (such as: Agile, DevOps, Cloud, QA, etc.) and be rewarded from 200€ to 1.400€ per certification, in addition to the paid exam.
+
+
+🏆High Value Training: after a year at ERNI, you will have the opportunity to enroll on +500€ Executive courses, Masters or Postgraduates. 80% of the total amount will be covered by the company.
+
+
+👌Hybrid working model: at ERNI we believe in the importance of building strong relationships with our colleagues. You can expect 5 to 6 days per month dedicated to team building and different events at the office.
+
+
+🏠 Home Office: you will receive an extra monthly compensation to cover your teleworking expenses, as well as any necessary equipment to be comfortable doing your job.
+
+
+🌍Far Home Office: you can extend your holidays and work remotely from any European country or Spanish city up to 5 weeks per year.
+
+
+💫Flexible working shift*: you will enjoy a Friday intensive shift and a self-managed flexible working hours.
+
+
+🤝Permanent contract: there is always a project for you to keep working with us, you will always find a project that fits your expectations in our people allocation meetings.
+
+
+🚀Challenging projects: ERNI is dedicated to develop high-quality software in complex technical environments such as pharmaceutics, biotechnology, robotics and 4.0 industry. With us, you will have the chance to participate in a variety of technical challenging projects amongst passionate and skilled colleagues.
+
+
+⭐Proximity and support: from the first day at ERNI, you will be guided by a Mentor and a People Development team that will make sure you have the right tools to develop and give you opportunities to grow in a project or to switch to a new one.
+
+
+👂 Communication: you will find transparency, honesty, and open communication all over the organization through a breakfast with our MD and a monthly session to be updated on what’s going on at ERNI.
+
+
+🏅 Promotions & Recognition: from the very first day, we offer you a way to learn and develop yourself in our company. All efforts are always recognized and appreciated by your colleagues and superiors which makes feel satisfied with your own achievements.
+
+
+💭 Free languages courses: learn German and Spanish or improve your English skills with our external teachers in small groups once per week.
+
+
+🩺 Private medical insurance: we will offer you a private medical insurance for you and a 100% salary coverage on sickness leave.
+
+
+💰 Flexible compensation: you will be able to dedicate part of your gross salary to different options such as transportation bonus, ticket restaurant, kindergarten bonus and to also to be able to add a family member into your own insurance plan.
+
+
+🤸‍♀️Gym Funding: ERNI bets on a healthy lifestyle, for that reason, we offer you special discounts on fitness facilities.
+
+
+✔ Re-allocation funding: if you are coming from abroad, we will help to become a part of our company with a relocation package bonus from 1.000€ to 2.000€.
+
+
+🤑 Referral program: you will receive an extra bonus with our “Candidate’s referral program” from 1.000€ to 3.000€ depending on the candidate seniority level; and an extra bonus, also with our “Business opportunity referral program” from 500€ to 5.000€ depending on the opportunity size and customer.
+
+
+🕵️‍♂️ Life support: to strengthen our commitment to conciliation and willingness of being close in your day-to-day life and important moments. We provide you a set of services and benefits, free of charge for, to assist you and your family in legal consultation, personal assistance, etc.
+
+
+💃 Events: we do believe in the importance of meeting our colleagues in an informal and natural environment to build connections and foster trust so that we feel like home. Leisure events, Christmas dinner and summer party are waiting for you!
+
+
+
+To be a best fit for this project you will need:
+
+
+• 3+ years of experience in embedded software development
+
+• Experience with RTOS.
+
+• Experience in modern C++ (>C++11) development for Realtime Embedded Systems.
+
+• OO Design Experience for Realtime Embedded System (design patterns, UML).
+
+• Very good command of English written and spoken.
+
+
+
+You will be responsible for:
+
+
+• Developing creative and efficient solutions for challenging, object-oriented embedded software
+
+projects for our infusion systems. You will go through the entire software development process from specification to verification, using our methods and components.
+
+• Development of system, product and software architectures.
+
+• Development of software components in C++ for Safety Critical Realtime Embedded Systems.
+
+• Development of software components from requirement analysis to integration, including unit and integration tests.
+
+• Collaboration in interdisciplinary teams, with project managers, product managers, hardware, test and production engineers.
+
+
+
+Are you still curious? Discover what it is to become part of ERNI:
+
+https://www.youtube.com/watch?v=rFewDU4-JnQ&t=10s
+
+
+
+WOULD YOU LIKE TO BECOME AN ERNIan? APPLY NOW!
+

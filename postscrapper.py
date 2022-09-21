@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import time
+from datetime import date
 import urllib
 
 class PostScrapper:
@@ -125,11 +125,14 @@ class PostScrapper:
       
       # Place
       f.write(self.place)
-      
+
       # Criteria 
       for line in self.criteria:
         f.write(line)
-        
+      
+      # Date
+      f.write(str(date.today()) + '\n\n')
+
       # Link
       f.write(self.url + '\n\n')
 

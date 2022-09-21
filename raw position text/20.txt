@@ -1,0 +1,54 @@
+Embedded Software Developer (f/m/d) Industrial PC
+Siemens
+Automation Machinery Manufacturing
+Karlsruhe, Baden-Württemberg, Germany
+Full-time
+Associate
+
+We, at DI Factory Automation, are innovation leaders in automation. In close cooperation with our partners and customers, we are the driving force for digital transformation in the discrete and process industries. Our outstanding portfolio in industrial automation is what makes us so strong. The industry is on the brink of the fourth industrial revolution. Automation is followed by the digitalization of production. The goal: an increase in productivity, efficiency, speed, and quality, leading to greater competitiveness for companies as they move into the future of the industry. As Business Line Industrial Computing, we deliver best-in-class IPC platforms for Industrial IoT, autonomous machines and virtualization solutions in the industry.
+
+Your area of responsibility - challenging and future-oriented
+
+You design, develop, integrate, test, and maintain firmware modules (UEFI BIOS / ACPI) to initialize industrial PC hardware components.
+In addition, you design and develop device drivers and software applications in the programming languages C, C++ and C# under the Windows and Linux operating systems.
+Your responsibilities also include the creation of developer documentation.
+You will be in direct technical contact with external companies and Siemens colleagues in USA, China, and Turkey.
+You will work intensively with technologists, hardware developers, system testers and our manufacturing department, and will coordinate cross-functionally throughout your area of responsibility.
+
+Your Qualifications - Sound And Adequate
+
+You have a successfully completed university degree in the field of electrical engineering, communications engineering, computer science or automation technology.
+You also bring excellent knowledge of Windows and Linux operating systems and PC technologies.
+You have good knowledge and experience in programming (C, C++, C#, and Assembler).
+Ideally, you have experience in communication and visualization of software architectures.
+Good knowledge of PC hardware (USB, PCI-Express, SATA, ...) also belongs to your competences.
+You are characterized by an independent and self-motivating working style and can coordinate well within the team.
+In addition, you bring good English communication skills.
+
+What We Offer
+
+2 to 3 days of mobile working per week as a future global standard.
+Attractive remuneration package.
+Development opportunities for both personal and professional growth.
+30 leave days and a variety of flexible working models that allow time off for yourself and your family .
+Share matching programs to become a shareholder of Siemens AG.
+Find more benefits here.
+
+Individual benefits are adapted to meet local legal regulations, the requirements of different job profiles, locations, and individual preferences.
+
+Make your mark in our exciting world at Siemens.
+
+As an equal-opportunity employer we are happy to consider from applications from individuals with disabilities.
+
+www.siemens.com/careers - if you would like to find out more about jobs & careers at Siemens.
+
+FAQ- if you need further information on the application process.
+
+Organization: Digital Industries
+
+Company: Siemens AG
+
+Experience Level: Experienced Professional
+
+Full / Part time: Either
+

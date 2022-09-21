@@ -1,0 +1,49 @@
+Développeur Python - Data
+
+Harnham
+              
+Paris, Île-de-France, France
+            
+Entry level
+          
+Full-time
+        
+Engineering and Information Technology
+          
+Staffing and Recruiting
+          
+2022-09-21
+
+https://www.linkedin.com/jobs/view/3255682702/
+
+Python Developer - Start Up
+45K-60K par an
+Paris, France
+Cette Start-Up en pleine expansion (viens de lever plusieurs millions !) développe une technologie unique et innovante de reconnaissance visuelle sur différentes plateformes.
+Cette solution basée sur l'IA permet à des grands noms de l'industrie d'améliorer leur performance produit et également de prévoir les futures orientations de leur marché.
+Aujourd'hui elle recherche un profil Backend afin d'accompagner les équipes production et engineering sur tout le développement de leur produit SaaS.
+Vous travaillerez essentiellement sur des problématiques Backend avec possibilité de toucher à des sujets d'interface.
+Le Poste
+Au sein de l'équipe Engineering :
+Vous travaillerez en collaboration avec l'équipe Data Science et Engineering sur des problématiques de développement complexe et liées à l'IA
+Vous travaiellerez sur la mise en place et l'optimisation d'API (Python/Flask)
+Vous serez à travailler sur l'optimisation des BDD (MongoDB / Elastic Search)
+Vous travaillerez sur des environnement microservices
+Vous travaillerez en étroite collaboration avec les équipes produit afin d'améliorer le produit
+Vous travaillerez sur l'ensemble du développement des plateformes SaaS
+Vous industrialiserez l'ensemble des données liées aux plateformes.
+Le Profil
+Diplômé d'un Master Ingénieur ou Scientifique
+Vous vous justifiez d'une expérience d'au moins 1 an en tant que Backend Developer ou équivalent
+Vous justifiez d'un excellent niveau sur Python
+La maitrise de Flask est un plus
+Vous avez une première expérience avec des outils infra
+Vous aimez challenger l'existant
+Vous êtes à l'aise dans un environnement professionnel anglais
+Stack
+Python / Flask
+MongoDB / ElasticSearch
+Docker / Kubernetes
+AWS
+Comment Postuler
+Si vous êtes intéressé(e), merci de faire part de votre CV à Pierre Gerbeau.
